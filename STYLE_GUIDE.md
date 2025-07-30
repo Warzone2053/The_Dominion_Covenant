@@ -22,10 +22,11 @@ Files shall be named using a two-digit number for ordering, followed by a period
 
 ### 3. Text Emphasis
 
-*   **Bold (`**text**`):** Used exclusively to highlight key constitutional terms, thresholds, roles, or principles that have a specific, defined meaning within the text. This draws the reader's attention to legally significant concepts.
+*   **Bold (`**text**`):** Used exclusively to highlight key constitutional terms, thresholds, roles, principles, or **internal cross-references** that have a specific, defined meaning within the text. This draws the reader's attention to legally significant concepts.
     *   *Example:* `...requires a **three-quarters supermajority vote**...`
-    *   *Example:* `...the Office of the **Public Tribune General**...`
-*   **Italics (`*text*`):** Used sparingly for simple emphasis on a particular word.
+    *   *Example:* `...as defined in **Article 10 of the Charter**.`
+*   **Italics (`*text*`):** Used sparingly for simple emphasis on a particular word or for quoted phrases that are being set apart from the main sentence.
+    *   *Example:* `The court is prohibited from *"discovering"* new rights.`
 
 ### 4. Lists and Clause Numbering
 
@@ -50,4 +51,12 @@ A consistent, nested hierarchy shall be used for all articles and clauses:
 
 ### 6. Links
 
-*   **Internal Links:** Use standard Markdown linking `[Link Text](file-path.md)` for cross-referencing between the constituent charters.
+*   **Internal Links:** This project avoids using standard Markdown hyperlinks for internal cross-references to ensure source-code readability and prevent broken links. See **Section 7** for the correct standard.
+
+### 7. Internal Cross-References
+
+To ensure readability and prevent broken links, internal cross-references to other articles or charters shall not be hyperlinked. Instead, the reference shall be made **bold** to signify its legal importance and draw the reader's attention to the connection.
+
+*   **Correct:** `...as defined in **Article 10 of the Charter of Immutable Principles**.`
+*   **Incorrect:** `...as defined in [Article 10 of the Charter...](...)`
+*   **Incorrect:** `...as defined in Article 10 of the Charter...`
