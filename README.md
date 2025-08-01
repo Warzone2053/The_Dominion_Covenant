@@ -44,8 +44,13 @@ The framework, known as the **Dominion Covenant**, is a unified whole composed o
 
 *   **Article I: Amendment Process:** Defines the high-bar process for amending this document.
 *   **Article II: Local and Municipal Governance:** Establishes governance at the lowest level based on subsidiarity, with powers limited to local affairs and finances controlled by binding citizen referendums on property tax rates.
-*   **Article III: Provincial Government:** Fortifies provincial powers to resist federal overreach.
-    *   **Administration of Justice:** Power is separated by vesting criminal prosecutions in an independent **Director of Public Prosecutions (DPP)**, insulating them from political control. A multi-stage, merit-based process governs judicial appointments.
+*   *   **Article III: Provincial Government:** Fortifies provincial powers to resist federal overreach.
+    *   **Administration of Justice:** Power is separated by vesting criminal prosecutions in an independent **Director of Public Prosecutions (DPP)**, insulating them from political control. A multi-stage, merit-based process governs judicial appointments:
+        1.  An independent **Judicial Council** creates a shortlist of qualified candidates.
+        2.  A legislative committee holds public hearings to vet the nominees.
+        3.  The Provincial Executive nominates one candidate from the approved list.
+        4.  The **Public Tribune** issues an advisory **"Report on Judicial Fitness"** to the public and the Legislature.
+        5.  The **Provincial Legislature** gives the final confirmation with a two-thirds supermajority vote.
     *   **Healthcare:** Mandates a hybrid system with a public "Health Security Net" for essential care and a protected private sector, both governed by an independent standards commission and subordinate to the pro-life principles of the Charter.
 *   **Article IV: Federal Public Finance:** Outlines the strict protocols for issuing **National Project Bonds** for major capital works, requiring public referendums.
 *   **Article V: The Regulated Militia of the Provinces:** Establishes voluntary, provincially-controlled militias for civil emergencies and common defense, with strict limits on their use.
