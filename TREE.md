@@ -10,6 +10,8 @@
 │   ├── PETITION TO THE PARLIAMENT OF CANADA FOR A NATIONAL REFERENDUM ON CONSTITUTIONAL RENEWAL.md
 │   ├── The Constitutional Transition and Inauguration Act.md
 │   └── THE RESTORATION MANDATE.md
+├── model_legislation
+│   └── Foundations of the Criminal Law Act.md
 ├── .gitignore
 ├── Prompt.md
 ├── README.md
