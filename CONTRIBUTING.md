@@ -28,11 +28,12 @@ Describes the kind of change.
 *   `refactor`: Rewriting or restructuring text without changing its functional meaning.
 
 #### Scope:
-The part of the constitution affected. The standard scopes are:
+The part of the project affected. The standard scopes are:
 *   `(dominion)`: Changes to `00. The Dominion Covenant.md`.
 *   `(principles)`: Changes to `01. THE CORE IMMUTABLE PRINCIPLES...md`.
 *   `(government)`: Changes to `02. The Constitution of Government.md`.
 *   `(covenant)`: Changes to `03. The National Covenant.md`.
+*   `(legislation)`: Changes to files within the `model_legislation` folder.
 *   `(project)`: Project-level changes (e.g., `.gitignore`, style guides).
 
 #### Subject:
@@ -42,6 +43,7 @@ A short, imperative summary of the change (e.g., "Add," "Fix," "Clarify," not "A
 *   `feat(government): Add Section 3 to Article IX on Tribune powers`
 *   `fix(principles): Clarify wording in Article 1 on Sanctity of Life`
 *   `style(covenant): Adjust heading levels for consistency`
+*   `feat(legislation): Define general principles in Criminal Law Act`
 *   `docs(project): Finalize standard scopes for commit messages`
 
 ### 3. Workflow
