@@ -86,6 +86,14 @@ A person is entitled to vote in an electoral district if they are:
 
 (4) In accordance with the principle of **Ballot Neutrality**, the final ballot shall list only the candidate's name and their city or town of residence within the district. No affiliation with any political party, association, organization, or informal caucus shall appear on the ballot.
 
+**Section 7A: Purpose and Intent of Campaign Finance Regulations**
+
+(1) The regulations in this Part are enacted for the sole purpose of preventing corruption and the appearance of corruption in the electoral process.
+
+(2) They are intended to protect the principle of political equality by ensuring that the opportunity for a citizen to participate in the democratic process is not dependent on wealth, and to ensure that elected representatives are accountable to their constituents, not to major financial donors.
+
+(3) Nothing in this Part shall be construed to limit the right of any citizen to hold, express, and debate political opinions. The regulations herein are limited to the financial contributions made and expenditures incurred for the direct purpose of electoral campaigning.
+
 **Section 8: Campaign Finance: Contributions**
 
 (1) Only individual citizens of Canada may contribute to a candidate's campaign. Contributions from corporations, trade unions, associations, and any foreign source are strictly prohibited.
