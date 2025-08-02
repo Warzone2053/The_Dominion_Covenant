@@ -99,6 +99,14 @@ NOW THEREFORE, this Legislature enacts the following foundational criminal law f
 
 (2) Culpable homicide is either murder or manslaughter.
 
+(3) **Principle of Equal and Inviolable Value.** The law shall hold that the life of a mother and the life of her unborn child possess equal and inviolable value.
+
+(4) **The Unified Duty to Intervene and Deliver.** When a verifiable medical condition creates a situation where the continuation of the pregnancy poses a direct mortal threat to the mother OR where it poses a mortal threat to the unborn child, the medical team has an absolute duty to deliver the child by the medically safest available method. This duty applies regardless of the child's gestational age or prospects for survival.
+
+(5) **The Duty of Post-Natal Care.** Following a delivery mandated by this section, the child, as a living human being, shall be provided with all appropriate life-sustaining, medical, and palliative care until their natural death. The child shall not be abandoned, neglected, or denied care.
+
+(6) **Attribution of Legal Cause of Death.** Where the duties in this section have been fulfilled in good faith, and the child subsequently dies due to its extreme prematurity or an underlying medical condition, the death shall not constitute a culpable homicide. For all legal purposes, the cause of death shall be attributed to the child's pathology or immaturity (i.e., natural causes), not to the act of delivery which was performed to resolve a mortal threat. This section provides a complete legal defense against any charge of homicide for the medical professionals involved.
+
 ---
 
 **Section 8: Murder**
