@@ -12,7 +12,8 @@
 │   └── THE RESTORATION MANDATE.md
 ├── model_legislation
 │   ├── The Dominion Elections Act.md
-│   └── Foundations of the Criminal Law Act.md
+│   ├── Foundations of the Criminal Law Act.md
+│   └── The National Militia Act.md
 ├── .gitignore
 ├── Prompt.md
 ├── README.md
