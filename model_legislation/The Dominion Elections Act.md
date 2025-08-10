@@ -236,3 +236,7 @@ A person is entitled to vote in an electoral district if they are:
 (4) If the audit reveals a discrepancy that materially questions the certified outcome of the election, the Commission is empowered to petition the Supreme Court of Canada for an order compelling a full manual recount of all ballots and for any other remedy the Court deems just.
 
 ---
+---
+###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
+
+###### This document is part of the Dominion Covenant project. Unauthorized reproduction, distribution, or adaptation of this work is prohibited.

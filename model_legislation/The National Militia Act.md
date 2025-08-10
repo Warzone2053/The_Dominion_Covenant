@@ -240,3 +240,9 @@ Pursuant to the mandate established in **Article V, Section 5 of the Constitutio
 
 1.  The principles of personal issuance and ownership apply only to the Militia Duty Rifle. Heavier, crew-served weapon systems (e.g., heavy machine guns, mortars, anti-tank guided missiles) and major platforms (e.g., armored vehicles, artillery) are not subject to these provisions.
 2.  These advanced and heavy assets shall be held exclusively by the Regulated Militias of the Provinces and shall be stored in secure provincial armories. The distribution of these assets shall be equitable among the ten provinces.
+
+---
+---
+###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
+
+###### This document is part of the Dominion Covenant project. Unauthorized reproduction, distribution, or adaptation of this work is prohibited.

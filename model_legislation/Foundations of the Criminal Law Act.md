@@ -269,3 +269,7 @@ Every one who, without lawful authority, seizes, confines, or imprisons a person
 (5) For the purposes of this section, **"property" includes electronic data, and acts of mischief include the wilful destruction, alteration, or deletion of such data, or the deliberate interference with the lawful access to it.**
 
 ---
+---
+###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
+
+###### This document is part of the Dominion Covenant project. Unauthorized reproduction, distribution, or adaptation of this work is prohibited.
