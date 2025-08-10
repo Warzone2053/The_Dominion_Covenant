@@ -28,6 +28,60 @@ NOW THEREFORE, this Legislature enacts the following foundational criminal law f
 
 ---
 
+**Section 1A: Justifiable Use of Force**
+
+**(1) Defense of Person:** A person is justified in using force against another when and to the extent that they **reasonably believe** such force is necessary to defend themselves or another person against the other's imminent use of unlawful force.
+
+**(2) Use of Lethal Force:** For greater clarity, and in accordance with **Article 1 of the Core Immutable Principles**, the use of lethal force is justified only when a person reasonably believes it is necessary to prevent **imminent death or grievous bodily harm** to themselves or another innocent person.
+    (a) For the purposes of this section, **"lethal force"** means any force that is intended or known by the person using it to be capable of causing death or grievous bodily harm.
+    (b) For the purposes of this section, **"grievous bodily harm"** means any injury that creates a substantial risk of death, or that causes serious and permanent disfigurement or protracted loss or impairment of the function of any bodily member or organ.
+    (c) For the purposes of this section, an **"imminent"** threat is one that a person reasonably believes is immediate, pressing, and will occur without undue delay. It is a threat that is on the point of happening and not a threat of future or speculative harm.
+
+**(3) No Duty to Retreat (The Castle Doctrine):** A person who is not engaged in unlawful activity and is in any place they have a lawful right to be has **no duty to retreat** and has the right to stand their ground and meet force with force, including lethal force if justified under subsection (2).
+    (a) There shall be a **legal presumption** that a person had a reasonable fear of imminent death or grievous bodily harm if the person against whom the force was used was in the process of **unlawfully and forcibly entering**, or had unlawfully and forcibly entered, a person's occupied dwelling, vehicle, or place of business.
+    (b) For the purposes of this subsection:
+        (i) **"Dwelling"** includes an attached porch, deck, or patio, and in the case of an apartment or condominium, the presumption extends only to the interior of the individual unit.
+        (ii) The presumption **does not apply** if the person against whom the force was used had an initial right to be in the dwelling (e.g., as an invitee or co-resident) and the encounter arises after that right was revoked. In such cases, the general right of self-defense under subsection (1) and (2) still applies, but without the benefit of the legal presumption.
+
+**(4) Defense of Property:** A person in lawful possession of property is justified in using **reasonable, non-lethal force** to prevent or terminate what they reasonably believe is an unlawful trespass or an unlawful interference with that property.
+    (a) The use of lethal force is not justified under this subsection for the sole purpose of defending property.
+    (b) However, should a person unlawfully interfering with property respond with or threaten imminent unlawful force against a person, the right of self-defense under subsections (1) and (2) is triggered.
+
+**(5) Limitation on Initial Aggressors:** The justification of force described in this section is not available to a person who:
+    (a) initially provokes the use of force against themselves with the intent to use such force as an excuse to inflict harm on the other person; or
+    (b) is the initial aggressor, unless they have, in good faith, withdrawn from the encounter and have clearly communicated their intent to do so, and the other person continues to use or threaten imminent unlawful force.
+
+**(6) Interpretation of "Reasonable Belief":** For all purposes within this section, a "reasonable belief" is one that has two components:
+    (a) The person genuinely held the belief in their own mind at the time (a subjective standard); and
+    (b) The belief was one that a prudent and law-abiding person, possessing the same knowledge and situated in the same circumstances as the actor, would have held (an objective standard).
+
+**(7) Unintended Consequences of Force:** If a person uses a degree of force that is justified under this section, but in doing so causes an unintended and unjustifiable harm (e.g., using non-lethal force that recklessly or negligently causes death), the justification provided by this section may serve as a defense against the primary intended offence, but it may not serve as a complete defense against a separate charge arising from the reckless or negligent result.
+
+---
+
+**Section 1B: Arrest by a Private Citizen**
+
+**(1) Grounds for Arrest:** Any person may arrest another person without a warrant if they **find them committing** one of the following offences:
+    (a) An **indictable offence**; or
+    (b) Any criminal offence on or in relation to their property for which the person making the arrest has reasonable grounds to believe the other is escaping from and cannot be identified by law enforcement.
+
+**(2) Arrest of Fleeing Offender:** Any person may arrest another person without a warrant if they have **reasonable grounds to believe**:
+    (a) that the other person has committed an indictable offence; and
+    (b) that the other person is escaping from and being freshly pursued by persons who have lawful authority to arrest that person.
+
+**(3) Use of Force in Arrest:** A person making a lawful arrest under this section is justified in using as much force as is **reasonably necessary** for the purpose of effecting the arrest and detaining the person.
+    (a) **Prohibition on Lethal Force:** The use of lethal force is **not justified** under this section *unless* the force is otherwise justified under **Section 1A (Justifiable Use of Force)**. For greater clarity, a citizen may not use lethal force solely to effect an arrest or prevent the escape of a person for a property-related crime. Lethal force is only permissible if the person being arrested poses a threat of imminent death or grievous bodily harm to the citizen or another person.
+
+**(4) Duty After Arrest:** A person who makes an arrest under this section shall, **without unreasonable delay**, deliver the person arrested to a peace officer to be dealt with according to law.
+
+**(5) Legal Protection and Liability:**
+    (a) A person who lawfully makes an arrest in accordance with this section shall be **justified and held harmless** from any criminal or civil liability for the act of the arrest itself.
+    (b) **Liability for Mistake:** If a person makes an arrest based on a mistake:
+        (i) **Mistake of Identity:** They are justified and protected from liability if they had reasonable grounds to believe the person they arrested was the one who committed the offence.
+        (ii) **Mistake of Offence:** They are **not protected** from liability if it is discovered that **no indictable offence was actually committed** by anyone in relation to the circumstances.
+
+---
+
 ### PART II: OFFENCES AGAINST GOD AND THE NATION
 
 **Section 2: Treason**
