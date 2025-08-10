@@ -31,6 +31,31 @@ Pursuant to the mandate established in **Article V, Section 5 of the Constitutio
 2.  These compacts may establish unified command structures for the purpose of responding to regional natural disasters or other large-scale civil emergencies that affect multiple provinces, and may pre-authorize the movement of militia personnel across each other's borders for such purposes.
 3.  No compact may supersede the authority of the federal government during a constitutionally declared State of Emergency.
 
+#### **Section 4: Force Composition and Status**
+
+1.  Each Provincial Militia shall be composed of two distinct but integrated components: the Ready Reaction Units and the Militia Reserve. The **Adjutant General** of the province shall command both components.
+
+2.  **The Ready Reaction Units (RRUs):**
+    (a) The RRUs shall constitute the **professional, full-time component** of the Provincial Militias. Members shall serve on a permanent, salaried basis.
+    (b) **Mission:** The primary mission of the RRUs is to serve as the nation's high-readiness force, capable of immediate deployment. Their duties include:
+        (i) Serving as the first line of defense against sudden foreign attack.
+        (ii) Acting as the primary units for any authorized overseas deployments.
+        (iii) Providing specialized support during domestic crises, under the strict protocols of **Article V** of this Act.
+        (iv) Serving as the professional training cadre to assist in and oversee the training of the Militia Reserve, ensuring the readiness of the entire force.
+    (c) **Structure:** Each province shall maintain, at minimum, one RRU structured as a **Combined Arms Brigade**. This brigade shall be a self-contained fighting force, possessing a mix of infantry, armored, artillery, and logistical support elements.
+    (d) **Selection Protocol:** Entry into a Ready Reaction Unit is contingent upon successful completion of the **Gideon Protocol**. This intensive assessment protocol is separate from and subsequent to Initial Entry Training. Its purpose is not merely to test advanced skills or physical endurance, but to serve as a profound filter for character and mindset. The protocol shall be designed to identify for service only those soldiers who demonstrate exceptional **vigilance**, sound judgment under extreme duress, unwavering **moral character**, and a proactive, decisive nature, thereby selecting for the nation's professional force only those who exhibit the constant readiness required for elite service.
+
+3.  **The Militia Reserve:**
+    (a) The Militia Reserve shall constitute the **part-time, citizen-soldier component** of the Provincial Militias.
+    (b) **Mission:** The primary mission of the Militia Reserve is to provide the mass mobilization capability required for the common defense in a major conflict. Their duties include:
+        (i) Forming the main body of the nation's army upon a general mobilization during a constitutionally declared State of War.
+        (ii) Augmenting the RRUs and providing security and support functions during regional emergencies or natural disasters.
+    (c) **Service Commitment:** To remain a member in good standing, a member of the Militia Reserve must, at minimum, complete **one paid training weekend per month and one two-week annual training period**.
+
+4.  **Integration and Recruitment:**
+    (a) To ensure a single, unified fighting doctrine, the annual two-week training period for the Militia Reserve shall, wherever practicable, be conducted as a joint exercise with the province's RRU.
+    (b) While direct enlistment into the RRUs may be permitted, distinguished and honorable service in the Militia Reserve shall be considered a primary and preferred qualification for any member seeking to transfer to full-time service. The **Gideon Protocol** shall be the mandatory gateway for all candidates, regardless of their path of entry.
+
 ---
 
 ### ARTICLE II: PERSONNEL AND TRAINING
