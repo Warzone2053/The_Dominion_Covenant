@@ -1,0 +1,57 @@
+name: Check for Acknowledgment
+
+# This workflow runs on pull requests that are opened or updated.
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  check-acknowledgments:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Get a copy of your repository's code
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          # We need to fetch the full history to compare branches
+          fetch-depth: 0
+
+      # Step 2: Get a list of files changed in this pull request
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v35
+
+      # Step 3: Run the check logic
+      - name: Check if contributor needs to be added
+        # This step only runs if the ACKNOWLEDGMENTS.md file was NOT changed in the PR
+        if: "!contains(steps.changed-files.outputs.all_changed_files, 'ACKNOWLEDGMENTS.md')"
+        run: |
+          # Get the PR author's username
+          AUTHOR="${{ github.event.pull_request.user.login }}"
+          
+          # Check if the author's name is already in the file.
+          if grep -q "$AUTHOR" ACKNOWLEDGMENTS.md; then
+            echo "Contributor is already listed. All good."
+            exit 0
+          fi
+          
+          # If we get here, the contributor is NOT on the list and has NOT updated the file.
+          echo "Contributor '$AUTHOR' not found in ACKNOWLEDGMENTS.md and the file was not updated."
+          echo "::error::Contributor must be added to ACKNOWLEDGMENTS.md"
+          # This sets the GITEA_COMMENT variable, which the next step will use.
+          # THIS LINE IS THE ONLY CHANGE
+          echo "GITEA_COMMENT=Thank you for your contribution, @${AUTHOR}! To finalize this pull request, please add your name to the \`ACKNOWLEDGMENTS.md\` file. Be sure to use the required format: \`* [${AUTHOR}]Your Name or Nickname\`. See the file for more details." >> $GITHUB_ENV
+
+      # Step 4: Post the reminder comment if needed
+      - name: Post Reminder Comment
+        # This step only runs if the previous step set the GITEA_COMMENT variable
+        if: env.GITEA_COMMENT
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `${process.env.GITEA_COMMENT}`
+            })
