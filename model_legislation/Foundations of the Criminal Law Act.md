@@ -61,25 +61,27 @@ NOW THEREFORE, this Legislature enacts the following foundational criminal law f
 
 **Section 1B: Arrest by a Private Citizen**
 
-**(1) Grounds for Arrest:** Any person may arrest another person without a warrant if they **find them committing** one of the following offences:
-    (a) An **indictable offence**; or
-    (b) Any criminal offence on or in relation to their property for which the person making the arrest has reasonable grounds to believe the other is escaping from and cannot be identified by law enforcement.
+**(1) Grounds for Arrest:** Any person may arrest another person without a warrant if they **find them committing**, or have reasonable grounds to believe they have just committed and are escaping from, an **indictable offence**.
+    (a) For the purposes of this section, "committing" includes being in the act of **attempting** to commit an indictable offence.
+    (b) An exception is made for property: A person may also arrest another whom they find committing any criminal offence on or in relation to their property.
 
 **(2) Arrest of Fleeing Offender:** Any person may arrest another person without a warrant if they have **reasonable grounds to believe**:
     (a) that the other person has committed an indictable offence; and
     (b) that the other person is escaping from and being freshly pursued by persons who have lawful authority to arrest that person.
 
-**(3) Use of Force in Arrest:** A person making a lawful arrest under this section is justified in using as much force as is **reasonably necessary** for the purpose of effecting the arrest and detaining the person.
-    (a) **Prohibition on Lethal Force:** The use of lethal force is **not justified** under this section *unless* the force is otherwise justified under **Section 1A (Justifiable Use of Force)**. For greater clarity, a citizen may not use lethal force solely to effect an arrest or prevent the escape of a person for a property-related crime. Lethal force is only permissible if the person being arrested poses a threat of imminent death or grievous bodily harm to the citizen or another person.
+**(3) Use of Force in Arrest or to Stop an Offence in Progress:** A person is justified in using as much force as is **reasonably necessary** to:
+    (a) effect a lawful arrest under this section; or
+    (b) stop another person whom they find in the act of committing an indictable offence.
 
-**(4) Duty After Arrest:** A person who makes an arrest under this section shall, **without unreasonable delay**, deliver the person arrested to a peace officer to be dealt with according to law.
+**(4) Prohibition on Lethal Force:** The use of lethal force is **not justified** under the authority of this section unless the force is otherwise justified under **Section 1A (Justifiable Use of Force)**. For greater clarity, a citizen may not use lethal force solely to effect an arrest or prevent the escape of a person for a property-related crime. Lethal force is only permissible if the person being arrested or stopped poses a threat of imminent death or grievous bodily harm to the citizen or another person.
 
-**(5) Legal Protection and Liability:**
-    (a) A person who lawfully makes an arrest in accordance with this section shall be **justified and held harmless** from any criminal or civil liability for the act of the arrest itself.
+**(5) Duty After Arrest or Intervention:** A person who makes an arrest or uses force to stop an offence under this section shall, **without unreasonable delay**, deliver any person they have detained to a peace officer to be dealt with according to law.
+
+**(6) Legal Protection and Liability:**
+    (a) A person who lawfully makes an arrest or uses justifiable force to stop an offence in accordance with this section shall be **justified and held harmless** from any criminal or civil liability for the act itself.
     (b) **Liability for Mistake:** If a person makes an arrest based on a mistake:
         (i) **Mistake of Identity:** They are justified and protected from liability if they had reasonable grounds to believe the person they arrested was the one who committed the offence.
-        (ii) **Mistake of Offence:** They are **not protected** from liability if it is discovered that **no indictable offence was actually committed** by anyone in relation to the circumstances.
-
+        (ii) **Mistake of Offence:** They are **not protected** from liability if it is discovered that **no indictable offence was actually committed** or attempted by anyone in relation to the circumstances.
 ---
 
 ### PART II: OFFENCES AGAINST GOD AND THE NATION
