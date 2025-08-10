@@ -26,6 +26,7 @@ Describes the kind of change.
 *   `docs`: Changes to documentation files (like this style guide).
 *   `style`: Formatting changes that do not affect the meaning of the text (e.g., adding spacing).
 *   `refactor`: Rewriting or restructuring text without changing its functional meaning.
+*   `chore`: Changes to repository maintenance, configuration files, or other tasks that don't modify the core documents.
 
 #### Scope:
 The part of the project affected. The standard scopes are:
