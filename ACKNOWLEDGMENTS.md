@@ -16,4 +16,4 @@ If your contribution has been merged into the project, please add your name or p
 
 ### Contributors
 
-*   [warzone2053]Jadon.M.Banninga (Project Owner)
+*   [Jadon]Jadon.M.Banninga (Project Owner)
