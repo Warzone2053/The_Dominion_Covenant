@@ -330,6 +330,85 @@ Every one who, without lawful authority, seizes, confines, or imprisons a person
 (3) Every one who attempts to commit an offence is, unless a different punishment is prescribed, guilty of an indictable offence and liable to imprisonment for a term not exceeding half of the longest term to which a person who is guilty of that offence is liable.
 
 ---
+
+### PART VI: SEXUAL OFFENCES
+
+**Section 21: Sexual Assault**
+
+(1) A **sexual assault** is an assault under Section 11 of this Act that is of a sexual nature.
+
+(2) In determining whether an assault is of a sexual nature, the court shall consider all the circumstances from the perspective of an objective, reasonable person, including but not limited to:
+    (a) the part of the body touched;
+    (b) the nature of the contact;
+    (c) the situation in which the contact occurred; and
+    (d) any words or gestures accompanying the act.
+
+(3) The accused's stated or perceived purpose is not determinative. An assault that is objectively sexual in nature does not cease to be so merely because it was committed for a purpose of humiliation, degradation, or the assertion of dominance.
+
+(4) Every one who commits a sexual assault is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years.
+
+---
+
+**Section 22: Consent in Sexual Offences**
+
+(1) For the purposes of this Part, **"consent"** means the voluntary agreement of the complainant to engage in the *specific* sexual activity in question. Consent must be both affirmative and continuous throughout the sexual activity.
+
+(2) No consent is obtained, as a matter of law, where:
+    (a) the agreement is expressed by the words or conduct of a person other than the complainant;
+    (b) the complainant is **incapable of consenting** to the activity, as defined in this section;
+    (c) the accused induces the complainant to engage in the activity by abusing a **position of trust, power, or authority**, as defined in this section;
+    (d) the complainant expresses, by words or conduct, a lack of agreement to engage in the activity;
+    (e) the complainant, having consented to engage in sexual activity, expresses, by words or conduct, a lack of agreement to *continue* to engage in the activity; or
+    (f) the complainant is induced to engage in the act by **fraud as to the nature and quality of the act, or the identity of the accused.**
+
+(3) The accused's belief that the complainant consented is not a defence if:
+    (a) that belief arose from the accused’s self-induced intoxication;
+    (b) the accused was reckless or wilfully blind as to whether the complainant was consenting; or
+    (c) the accused did not take **reasonable steps** in the circumstances known to the accused at the time to ascertain that the complainant was consenting.
+
+(4) Nothing in this section shall be construed to permit an accused to rely on a defence of implied consent. Consent must be affirmatively and consciously given for each instance of sexual activity. A complainant's past consent to sexual activity, with either the accused or any other person, does not imply consent to the activity in question.
+
+(5) **Incapacity to Consent.**
+    (a) A person is **incapable of consenting** if they are unconscious, asleep, or in a state of intoxication or other condition that renders them unable to consciously understand the nature, risks, and consequences of the sexual activity, or unable to communicate their consent or withdrawal thereof.
+    (b) For greater clarity, the fact that a person has consumed alcohol or other intoxicants **does not, in itself, render them incapable of consenting**. The determination of incapacity shall be based on the evidence of the complainant's actual state of mind and physical control at the time of the act, not merely on the presence of intoxicants.
+
+(6) **Position of Trust, Power, or Authority.** For the purpose of subsection (2)(c), this includes, but is not limited to, a relationship between the complainant and an accused who is their:
+    (a) doctor, therapist, or other healthcare provider;
+    (b) teacher or school official;
+    (c) employer or supervisor;
+    (d) peace officer, correctional officer, or judicial official; or
+    (e) any other relationship of a similar nature where one person has a manifest and significant degree of authority or dependency over the other.
+
+---
+
+**Section 23: Sexual Assault with a Weapon, Threats, or Causing Bodily Harm**
+
+(1) Every one commits an offence who, in committing a sexual assault,
+    (a) carries, uses, or threatens to use a **weapon**;
+    (b) threatens to cause bodily harm to a person other than the complainant; or
+    (c) causes **bodily harm** to the complainant.
+
+(2) Every one who commits an offence under this section is guilty of an indictable offence and liable to imprisonment for a term not exceeding fourteen years.
+
+---
+
+**Section 24: Aggravated Sexual Assault**
+
+(1) Every one commits an **aggravated sexual assault** who, in committing a sexual assault, wounds, maims, disfigures, or endangers the life of the complainant.
+
+(2) Every one who commits an aggravated sexual assault is guilty of an indictable offence and liable to imprisonment for life.
+
+(3) For greater clarity, where an aggravated sexual assault is committed against a person under the age of eighteen years, it shall constitute a "Heinous Crime Against a Child" and is subject to the mandatory sentencing provisions in **Section 4** of this Act.
+
+---
+
+**Section 25: Definition of Weapon**
+
+(1) For the purposes of this Act, **"weapon"** means:
+    (a) anything designed to be used in causing death or injury to any person; or
+    (b) anything that a person uses, or intends to use, in causing death or injury to any person, regardless of its intended design.
+
+---
 ---
 ###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
 
