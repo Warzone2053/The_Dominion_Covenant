@@ -269,6 +269,67 @@ Every one who, without lawful authority, seizes, confines, or imprisons a person
 (5) For the purposes of this section, **"property" includes electronic data, and acts of mischief include the wilful destruction, alteration, or deletion of such data, or the deliberate interference with the lawful access to it.**
 
 ---
+
+### PART V: PARTICIPATION IN CRIME
+
+**Section 17: Parties to an Offence**
+
+(1) Every one is a party to an offence who:
+    (a) actually commits it;
+    (b) does or omits to do anything for the purpose of **aiding** any person to commit it; or
+    (c) **abets** any person in committing it.
+
+(2) **Common Intention.** Where two or more persons form an intention in common to carry out an unlawful purpose and to assist each other therein, and any one of them, in carrying out the common purpose, commits an offence, each of them who **knew or was wilfully blind to the substantial likelihood** that the commission of the offence would be a consequence of carrying out the common purpose is a party to that offence.
+    > (a) For the purposes of this subsection, **"wilful blindness"** is established only where the Crown proves beyond a reasonable doubt that the accused had firm suspicions that the additional offence was likely to occur, but deliberately chose to remain ignorant of that fact. Mere negligence or failure to inquire is insufficient to establish wilful blindness.
+
+(3) **Accessory After the Fact.**
+    > (a) An accessory after the fact to an offence is one who, knowing that a person has been a party to the offence, receives, comforts, or assists that person for the purpose of enabling that person to escape.
+    >
+    > (b) Every one who is an accessory after the fact to an indictable offence is guilty of an indictable offence and liable to imprisonment for a term not exceeding half of the longest term to which a person who is guilty of that offence is liable.
+    >
+    > (c) **Limitation on Liability (Family).** A person is **not** guilty of being an accessory after the fact by reason only that they provide life-sustaining aid to their spouse, their parent, or their child.
+    > > (i) For the purposes of this clause, **"life-sustaining aid"** is strictly limited to providing food, water, temporary shelter in one's own primary dwelling, or essential medical care.
+    > >
+    > > (ii) This protection **does not extend** to any act intended to actively and permanently obstruct the course of justice, including but not limited to: providing funds for flight, destroying evidence, providing a false alibi, or arranging transportation for the purpose of escape.
+
+---
+
+**Section 18: Counselling an Offence**
+
+(1) Every one who counsels another person to commit an offence is, if the offence is committed, a party to that offence, provided the counsellor had the **specific intent** that the offence be committed.
+
+(2) A person who counsels an offence is also a party to any other offence that the person counselled commits in consequence of the counselling, but only if the counsellor **knew or intended** that the other offence was a likely consequence of carrying out the counselled offence.
+
+(3) Every one who counsels another person to commit an offence is a party to the offence of counselling, notwithstanding that the counselled offence was not committed.
+
+(4) For the purposes of this Act, **"counsel"** includes to command, solicit, incite, or procure, where such communication demonstrates a specific intent to bring about the commission of the offence.
+
+---
+
+**Section 19: Conspiracy**
+
+(1) Every one who conspires with any one to commit murder, or to cause another person to be murdered, whether in Canada or not, is guilty of an indictable offence and liable to the same punishment as a principal offender.
+
+(2) Every one who conspires with any one to prosecute an innocent person for an alleged offence, knowing that they did not commit that offence, is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years.
+
+(3) Every one who conspires with any one to commit an indictable offence not provided for in subsection (1) or (2) is guilty of an indictable offence and liable to the same punishment as a person who is guilty of that offence.
+
+---
+
+**Section 20: Attempt**
+
+(1) Every one who, having an intent to commit an offence, does or omits to do anything for the purpose of carrying out their intention is guilty of an **attempt** to commit the offence, whether or not it was possible under the circumstances to commit the offence.
+
+(2) The question of whether an act or omission has gone beyond mere preparation and constitutes an attempt is a question of law.
+    > (a) In making this determination, the court **shall consider the proximity of the accused's conduct to the completion of the target offence**, having regard to factors such as:
+    > > (i) The acquisition and possession of materials specifically required to commit the offence;
+    > > (ii) The physical presence of the accused at or near the contemplated scene of the crime;
+    > > (iii) Overt acts of reconnaissance or surveillance of the intended victim or place; and
+    > > (iv) The extent to which the accused's actions remain equivocal or can serve no other purpose than the commission of the intended offence.
+
+(3) Every one who attempts to commit an offence is, unless a different punishment is prescribed, guilty of an indictable offence and liable to imprisonment for a term not exceeding half of the longest term to which a person who is guilty of that offence is liable.
+
+---
 ---
 ###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
 
