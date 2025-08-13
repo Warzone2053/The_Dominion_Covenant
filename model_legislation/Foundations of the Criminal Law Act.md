@@ -409,6 +409,56 @@ Every one who, without lawful authority, seizes, confines, or imprisons a person
     (b) anything that a person uses, or intends to use, in causing death or injury to any person, regardless of its intended design.
 
 ---
+
+### PART VII: OFFENCES AGAINST THE ADMINISTRATION OF JUSTICE
+
+**Section 26: Bribery of Constitutional Officers**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding fourteen years who corruptly gives, offers, or agrees to give or offer to a **Constitutional Officer**, or who, being a **Constitutional Officer**, corruptly accepts, obtains, or agrees to accept, a loan, reward, advantage, or benefit of any kind as consideration for an act or omission by the officer in their official capacity.
+
+(2) For the purposes of this section, a **"Constitutional Officer"** is defined as:
+    (a) a member of the House of Commons or the Senate;
+    (b) a judge of any court;
+    (c) the Public Tribune General or any person employed in their office with investigative authority; or
+    (d) any member of a Grand Jury or a National Citizen Jury.
+
+(3) For greater clarity, a **"benefit of any kind"** includes, but is not limited to, any financial advantage, promise of future employment, or any political or charitable donation made at the direction of, or for the advantage of, the officer or their family.
+
+---
+
+**Section 26A: Bribery of Public Servants**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years who corruptly gives, offers, or agrees to give or offer to a **Public Servant**, or who, being a **Public Servant**, corruptly accepts, obtains, or agrees to accept, a benefit as defined in Section 26(3) as consideration for an act or omission in their official capacity.
+
+(2) For the purposes of this section, a **"Public Servant"** means any person who holds a public office or is employed for the preservation or enforcement of the public peace or in the public service of the nation.
+
+---
+
+**Section 27: Obstructing Justice**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years who **corruptly** attempts, in any manner, to obstruct, pervert, or defeat the course of justice.
+
+(2) Without limiting the generality of subsection (1), every one shall be deemed to corruptly attempt to obstruct justice who:
+    (a) uses threats, bribery, or other corrupt means to influence or dissuade a witness from giving evidence; or
+    (b) knowingly destroys, alters, conceals, or falsifies evidence.
+
+(3) For the purposes of this section, the "course of justice" includes any judicial proceeding, **whether existing or anticipated**.
+
+---
+
+**Section 28: Intimidation of a Justice System Participant**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding fourteen years who, by violence or threats of violence to a justice system participant or their family, attempts to provoke a state of fear in that person for the purpose of impeding them in the performance of their duties **or in retaliation for having performed them**.
+
+(2) For the purposes of this section, a **"justice system participant"** includes:
+    (a) a current, former, or potential witness in a proceeding;
+    (b) a current or former member of a Grand Jury or a trial jury;
+    (c) a judge;
+    (d) a prosecutor or a defence counsel who is an officer of the court;
+    (e) a peace officer; or
+    (f) the Public Tribune General, or any person employed in their office or as an official of a court.
+
+---
 ---
 ###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
 
