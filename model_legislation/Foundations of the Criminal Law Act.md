@@ -459,6 +459,85 @@ Every one who, without lawful authority, seizes, confines, or imprisons a person
     (f) the Public Tribune General, or any person employed in their office or as an official of a court.
 
 ---
+
+### PART VIII: CYBERCRIME AND OFFENCES INVOLVING DATA
+
+**Section 29: Unauthorized Use of a Computer**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years who, fraudulently and without colour of right,
+    (a) obtains, directly or indirectly, any computer service;
+    (b) uses a computer system with intent to commit an offence under this Act; or
+    (c) obtains another person's data or intercepts any function of a computer system.
+
+(2) For the purposes of this section, **"computer system"** means a device or a group of interconnected devices that contains computer programs or other data, and performs logic and control functions. **"Data"** means representations of information or of concepts that are being prepared or have been prepared in a form suitable for use in a computer system.
+
+(3) **Limitation on Liability (Cybersecurity Operations).** This section does not apply to a person whose conduct is undertaken for a legitimate cybersecurity purpose, provided that:
+    (a) they were acting under a valid and explicit written authorization from the owner or operator of the target computer system;
+    (b) their actions were performed in good faith for the sole purpose of identifying and assessing security vulnerabilities; and
+    (c) their actions did not exceed the scope of the authorization.
+
+---
+
+**Section 30: Mischief in Relation to Data**
+
+(1) Every one commits mischief who wilfully
+    (a) destroys or alters data;
+    (b) renders data meaningless, useless, or ineffective; or
+    (c) obstructs, interrupts, or interferes with the lawful use of data.
+
+(2) Every one who commits mischief under this section is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years.
+
+(3) For greater clarity, this section clarifies and expands upon the general offence of mischief in Section 16, and does not preclude a charge under that section.
+
+---
+
+**Section 31: Interception of Private Communications**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years who, by means of any electro-magnetic, acoustic, mechanical, or other device, wilfully intercepts a **private communication**.
+
+(2) This section does not apply to a person who has the consent to intercept, express or implied, of the originator of the private communication or the person intended by the originator to receive it.
+
+(3) For the purpose of this section, a **"private communication"** is any communication made under circumstances in which it is reasonable for the originator to expect that it will not be intercepted by any person other than the person intended by the originator to receive it.
+
+(4) For greater clarity, the following are deemed not to be private communications:
+    (a) any public broadcast intended for reception by the general public;
+    (b) any amateur, citizen's band, or other similar radio transmission; and
+    (c) any communication that the originator has configured to be publicly accessible.
+
+---
+
+**Section 32: Identity Fraud and Trafficking in Identity Information**
+
+(1) Every one commits an offence who fraudulently personates another person, living or dead, with intent to:
+    (a) gain advantage for themselves or another person;
+    (b) obtain any property or an interest in any property; or
+    (c) cause disadvantage to the person being personated or another person.
+
+(2) Every one commits an offence who knowingly obtains, possesses, transfers, sells, or offers for sale another person's **identity information** in circumstances that give rise to a reasonable inference that the information is intended to be used to commit an indictable offence that includes fraud, deceit, or falsehood.
+
+(3) For the purposes of this section, **"identity information"** means any information—including a name, signature, address, date of birth, written password, or biometric data—that is commonly used, alone or in combination with other information, to identify or purport to identify an individual.
+
+(4) Every one who commits an offence under this section is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years.
+
+---
+
+**Section 33: Possession or Trafficking of Device or Data for Unlawful Purpose**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years who possesses any device, computer program, or other data,
+    (a) knowing that it has been designed or adapted primarily for the purpose of committing an offence under this Part; and
+    (b) intending to use it for such a purpose.
+
+(2) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years who makes available a device, computer program, or other data to another person **knowing, or being wilfully blind to the fact, that there is a substantial and unjustifiable risk** that the recipient intends to use it for the purpose of committing an offence under this Part.
+
+(3) **Limitation on Liability (Legitimate Use).** For greater clarity, a person does **not** commit an offence under subsection (1) by reason only of possessing a device or computer program if it is for the purpose of:
+    (a) authorized cybersecurity operations, as described in Section 29(3);
+    (b) legitimate scientific, security, or cryptographic research;
+    (c) system administration or network security monitoring on a system they are authorized to manage; or
+    (d) educational instruction or personal hobbyist exploration.
+
+(4) **Limitation on Liability (Legitimate Commerce).** A person does **not** commit an offence under subsection (2) by reason only of making available a device or computer program that has a legitimate, widespread commercial or research purpose.
+
+---
 ---
 ###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
 
