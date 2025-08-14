@@ -584,7 +584,37 @@ Every one who, without lawful authority, seizes, confines, or imprisons a person
 (4) **Limitation for Private Communication.** This section shall not be construed to criminalize the private, non-commercial sharing or transmission of pornographic material between consenting adults.
 
 ---
----
-###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
 
-###### This document is part of the Dominion Covenant project. Unauthorized reproduction, distribution, or adaptation of this work is prohibited.
+### PART X: OFFENCES AGAINST HUMAN DIGNITY AND EXPLOITATION
+
+**Section 37: Purchasing Sexual Services**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years who, in any place, pays, offers to pay, or agrees to pay consideration for a sexual service.
+
+(2) For the purposes of this Part, a **"sexual service"** is a service that is sexual in nature and is provided in exchange for consideration.
+
+---
+
+**Section 38: Exploitation and Trafficking in Persons**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding fourteen years who:
+    (a) receives a financial or other material benefit, knowing that it is obtained by or derived from the commission of an offence under Section 37; or
+    (b) procures, recruits, harbours, or transports a person for the purpose of that person providing a sexual service.
+
+(2) Every one who commits an offence under subsection (1) that involves coercion, deception, threats, or violence is liable to imprisonment for life.
+
+(3) Every one who commits an offence under this section in relation to a person under the age of eighteen years shall be subject to the mandatory sentencing provisions in **Section 4 (Heinous Crimes Against a Child)** of this Act.
+
+---
+
+**Section 39: Immunity for Persons Providing Sexual Services**
+
+(1) For greater clarity, no person shall be found guilty of an offence under this Part for the sole reason that they have provided a sexual service in exchange for consideration.
+
+(2) Any evidence that a person has provided a sexual service shall not be admissible for the purpose of prosecuting that person for any other offence related to the circumstances of their exploitation, such as the non-criminal possession of illicit substances for personal use.
+
+---
+
+**Section 40: Referral for Intervention**
+
+(1) Any person identified by law enforcement as having provided a sexual service shall not be subject to criminal charges under this Part. They shall be referred for a mandatory civil proceeding under the authority and procedures of **The National Dignity and Recovery Act.**
