@@ -538,6 +538,52 @@ Every one who, without lawful authority, seizes, confines, or imprisons a person
 (4) **Limitation on Liability (Legitimate Commerce).** A person does **not** commit an offence under subsection (2) by reason only of making available a device or computer program that has a legitimate, widespread commercial or research purpose.
 
 ---
+
+### PART IX: OFFENCES AGAINST PUBLIC MORALITY
+
+**Section 34: Obscenity**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years who, for a commercial purpose, makes, publishes, distributes, or possesses for the purpose of distribution any material that is obscene.
+
+(2) For the purposes of this Act, material is **obscene** if it meets the definition established in **Article 4, Section 2(c) of the Core Immutable Principles**, being the commercial production or distribution of hard-core pornography.
+
+(3) In determining whether material constitutes hard-core pornography that lacks serious literary, artistic, political, or scientific value, the court or jury shall consider the work as a whole and shall have regard to the following non-exhaustive list of factors:
+    (a) **The degree of explicitness:** The clarity, detail, and focus of the depiction of sexual acts.
+    (b) **Thematic focus:** Whether the dominant theme of the work is the exploration of plot, character, and ideas, or the mechanical, prolonged, and graphic depiction of the sexual act itself.
+    (c) **Presence of Degradation or Dehumanization:** Whether the material depicts sexual acts involving violence, cruelty, or non-consensual conduct not essential to a legitimate plot, or in a manner that reduces human beings to mere instruments for sexual gratification.
+    (d) **Artistic or Scientific Intent:** The degree to which the work demonstrates a genuine and serious attempt at artistic expression, political commentary, or scientific study.
+
+(4) **Absolute Prohibition on Extreme Content:** Notwithstanding any other provision, any pictorial depiction of the following is deemed to be hard-core pornography that lacks serious value and is absolutely prohibited:
+    (a) A sexual act committed with a person who is, or who is depicted as being, under the age of eighteen years.
+    (b) A sexual act that involves actual, non-simulated grievous bodily harm, torture, or the death of a participant.
+
+(5) For the purposes of this section, an act is done for a **"commercial purpose"** if it is for the purpose of financial gain, including but not limited to direct sale, the offering of paid subscriptions, or the generation of advertising revenue in connection with the material.
+
+---
+
+**Section 35: Unlawful Distribution of Intimate Images**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years who knowingly publishes or distributes an intimate image of a person:
+    (a) knowing that the person depicted in the image did not consent to the distribution; and
+    (b) where the person depicted is identifiable and had a reasonable expectation of privacy at the time the image was created.
+
+(2) For the purposes of this section, an **"intimate image"** is a visual recording or photograph in which a person is nude, partially nude, or is engaged in an explicit sexual act.
+
+(3) It is not a defence that the person depicted consented to the initial creation of the intimate image. The consent to distribution must be separate and specific.
+
+---
+
+**Section 36: Unlawful Public Dissemination of Pornographic Material**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years who knowingly makes pornographic material **publicly available**.
+
+(2) For the purposes of this section, **"pornographic material"** is any pictorial or textual material whose dominant characteristic is the explicit depiction of sexual acts.
+
+(3) For the purposes of this section, material is made **"publicly available"** when it is placed in the public domain or is made accessible to the general public or to an unrestricted group of persons. This includes, but is not limited to, posting on a public website, an open-access data server, or a social media platform without privacy restrictions.
+
+(4) **Limitation for Private Communication.** This section shall not be construed to criminalize the private, non-commercial sharing or transmission of pornographic material between consenting adults.
+
+---
 ---
 ###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
 
