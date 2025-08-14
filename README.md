@@ -72,4 +72,4 @@ This project is made available for the purpose of serious intellectual and philo
 
 ---
 
-Copyright © 2024 Jadon.M.Banninga . All Rights Reserved.
+Copyright © 2025 Jadon.M.Banninga . All Rights Reserved.
