@@ -6,6 +6,8 @@
 
 Pursuant to the mandate established in **Article V, Section 5 of the Constitution of Government**, this Act establishes the detailed organization, command structure, training, discipline, and rules of conduct for the **Regulated Militias of the Provinces**. Its purpose is to ensure the militias are a professional, integrated, and constitutionally-grounded force capable of fulfilling their duty as the sole guardians of the common defense.
 
+AND WHEREAS the defense of the nation is a shared and binding duty of all citizens, fulfilled through **universal service** as mandated by the **Core Immutable Principles**;
+
 ---
 
 ### ARTICLE I: ORGANIZATION AND COMMAND
@@ -84,19 +86,25 @@ Pursuant to the mandate established in **Article V, Section 5 of the Constitutio
 
 ---
 
-### ARTICLE III: ENLISTED RECRUITMENT AND TRAINING
+### ARTICLE III: NATIONAL SERVICE OBLIGATION AND TRAINING
 
 ---
 
-#### **Section 1: The National Standard for Enlistment**
+#### **Section 1: The Universal Service Obligation**
 
-1.  To ensure a uniformly high quality of personnel across all Provincial Militias, the **Federal Command for Materiel and Doctrine** is hereby mandated to establish and publish the **National Standard for Enlistment**. This standard shall be applied to all applicants without exception.
+1.  In accordance with the **Core Immutable Principles**, every citizen shall be subject to a period of mandatory national service upon reaching the age of majority, as shall be defined by a **National Service Act**.
+2.  The default and primary path for fulfilling this obligation is service in a Provincial Militia.
+3.  The sole alternative to military service is mandatory service in the **National Service Corps**, available only to those formally recognized as **Conscientious Objectors** under **Article VI** of this Act.
+
+#### **Section 2: The National Standard for Service**
+
+1.  To ensure a uniformly high quality of personnel across all Provincial Militias, the **Federal Command for Materiel and Doctrine** is hereby mandated to establish and publish the **National Standard for Service**. This standard shall be applied to all citizens entering service without exception.
 2.  The Standard shall consist of three components:
     (a) **Medical Fitness:** A candidate must pass a comprehensive medical examination designed to identify any physical or psychological condition that would predictably prevent them from performing their duties in a demanding operational environment or would pose an undue risk to themselves or their unit. The list of disqualifying conditions shall be made public and applied uniformly.
     (b) **Physical Fitness:** A candidate must pass the standardized **Enlistment Physical Fitness Test (EPFT)**. The EPFT shall be designed to measure the raw physical attributes necessary to succeed in military training. The test shall be identical for all applicants, regardless of sex or intended military occupation, and the minimum passing score shall be universal.
     (c) **Moral Character:** A candidate must meet the criteria for good standing as defined in **Article II, Section 3(2)(b)** of this Act, including the absence of a disqualifying criminal record.
 
-#### **Section 2: Initial Entry Training (IET)**
+#### **Section 3: Initial Entry Training (IET)**
 
 1.  Each province shall be responsible for conducting Initial Entry Training for its recruits, in accordance with the national curriculum developed and maintained by the **Federal Command for Materiel and Doctrine**.
 2.  IET shall consist of two distinct phases:
@@ -104,7 +112,7 @@ Pursuant to the mandate established in **Article V, Section 5 of the Constitutio
     (b) **Phase II: Advanced Individual Training (AIT).** Following successful completion of BCT, each recruit shall attend training for their specific military occupational specialty, ensuring they possess the technical skills required for their role within the militia.
 3.  Successful graduation from both phases of IET is a prerequisite for being formally sworn into a Provincial Militia as a member in good standing.
 
-#### **Section 3: The Graduated Physical Readiness Program**
+#### **Section 4: The Graduated Physical Readiness Program**
 
 1.  To ensure all members achieve the high level of physical readiness required for the common defense, IET shall employ a **Graduated Physical Readiness Program**.
 2.  This program shall ensure that physical standards become progressively more demanding throughout the training pipeline. The minimum passing score on the **EPFT** is required for entry into training. The final graduation requirement for IET shall be a passing score on the **Militia Physical Fitness Test (MPFT)**.
