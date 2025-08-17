@@ -26,26 +26,29 @@ The architecture of the Dominion Covenant is built upon several foundational pil
 
 ## Project Structure
 
-The repository is organized into several key directories:
+The repository is organized into a clear hierarchy, moving from foundational principles to practical application.
 
-*   `/charters`: Contains the three foundational documents that form the Dominion Covenant itself.
-*   `/model_legislation`: Provides examples of key statutes that would be enacted under the authority of the new constitution, demonstrating how its principles translate into practical law.
-*   `/docs`: Includes supporting documents related to the philosophical background, potential implementation, and transitional governance of the Covenant.
+*   **`/charters`**: The constitutional foundation of the project. These three documents form one, indivisible whole, outlining the nation's permanent moral principles, its inviolable rights, and the structure of its government.
+*   **`/model_legislation`**: Practical examples of the key "Framework Acts" and statutes that would be enacted under the authority of the constitution. These documents demonstrate how the core principles are translated into the operational law of the land, covering everything from national defense to foreign policy.
+*   **`/reference`**: Navigational and study aids for the project. Chief among these is the **[Defined Terms Concordance](reference/Defined_Terms_Concordance.md)**, an essential glossary that defines and cross-references the specific legal terms used throughout the Covenant.
+*   **`/docs`**: Supporting documents related to the philosophical background, potential implementation, and transitional governance of the Covenant.
 
 ---
 
-## The Core Charters
+## Recommended Reading Path
 
-The Dominion Covenant is comprised of three integrated parts that form one indivisible whole:
+For a reader new to the project, the following path is recommended for a comprehensive understanding:
 
-> *   **Part I: [The Core Immutable Principles](charters/01.%20THE%20CORE%20IMMUTABLE%20PRINCIPLES%20OF%20THE%20CONSTITUTION%20OF%20CANADA.md)**
->     *   *The unchangeable foundation establishing the nation's fundamental rights and the absolute limits of state power.*
->
-> *   **Part II: [The Constitution of Government](charters/02.%20The%20Constitution%20of%20Government.md)**
->     *   *The framework of the state, detailing the structure, powers, and procedures of its legislative, executive, and judicial branches.*
->
-> *   **Part III: [The National Covenant](charters/03.%20The%20National%20Covenant.md)**
->     *   *The moral compass of the nation, articulating the guiding virtues for its people and public life.*
+1.  **The Preamble:** Begin with **[00. The Dominion Covenant](charters/00.%20The%20Dominion%20Covenant.md)**. This is the single-page "keystone" document that introduces the three core charters and their relationship.
+
+2.  **The Foundational Charters:** Read the core constitution in the following order:
+    *   **Part I: [The Core Immutable Principles](charters/01.%20THE%20CORE%20IMMUTABLE%20PRINCIPLES%20OF%20THE%20CONSTITUTION%20OF%20CANADA.md)** – The unchangeable soul of the nation, defining its absolute rights and the limits of state power.
+    *   **Part II: [The Constitution of Government](charters/02.%20The%20Constitution%20of%20Government.md)** – The structural framework of the state, detailing the machinery of its legislative, executive, and judicial branches.
+    *   **Part III: [The National Covenant](charters/03.%20The%20National%20Covenant.md)** – The moral compass of the nation, articulating the guiding virtues for its people and public life.
+
+3.  **Theory into Practice:** Once the foundation is understood, explore a piece of model legislation to see how it works in practice. A good starting point is **[The National Militia Act](model_legislation/The%20National%20Militia%20Act.md)**, as it directly implements several of the Covenant's most unique principles.
+
+4.  **Use the Concordance:** As you read, keep the **[Defined Terms Concordance](reference/Defined_Terms_Concordance.md)** open. It is an invaluable tool for understanding the precise legal meaning of capitalized terms used throughout the project.
 
 ---
 
