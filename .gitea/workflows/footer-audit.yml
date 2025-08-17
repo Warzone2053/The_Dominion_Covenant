@@ -2,40 +2,34 @@
 
 name: "Copyright Footer Audit"
 
-# This workflow runs on two events:
-# 1. 'push': When anyone pushes commits to any branch.
-# 2. 'pull_request': When a pull request is opened or updated.
 on: [push, pull_request]
 
 jobs:
   audit-footers:
-    # Use a standard Ubuntu runner provided by Gitea/Act.
     runs-on: ubuntu-latest
     
     steps:
-      # Step 1: Check out the repository's code
-      # This action downloads your code so the script can access the files.
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Run the audit script
-      # This is the core of the workflow. It uses a shell script to perform the check.
       - name: Verify Copyright Footers in Markdown Files
         run: |
           # --- CONFIGURATION ---
-          # Define the exact, correct copyright footer.
-          # NOTE: The blank line after the final '---' is intentional and important.
-          GOLDEN_FOOTER="---
+          # Define the "golden" footer using a 'here document'.
+          # This is the robust way to handle multi-line strings in shell.
+          # The 'EOF' marker can be any word, as long as it's the same at the start and end.
+          read -r -d '' GOLDEN_FOOTER <<'EOF'
+---
 ---
 ###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
 
-###### This document is part of the Dominion Covenant project. Unauthorized reproduction, distribution, or adaptation of this work is prohibited."
+###### This document is part of the Dominion Covenant project. Unauthorized reproduction, distribution, or adaptation of this work is prohibited.
+EOF
 
-          # Get the number of lines in the golden footer for an accurate comparison.
+          # Get the number of lines in the golden footer for accurate comparison.
           FOOTER_LINES=$(echo "$GOLDEN_FOOTER" | wc -l)
 
           # List of files to specifically exclude from the footer check.
-          # These files have a different structure or no footer at all.
           EXCLUDE_FILES=(
             "./TREE.md"
             "./ACKNOWLEDGMENTS.md"
@@ -45,12 +39,12 @@ jobs:
           # --- SCRIPT LOGIC ---
           echo "Starting copyright footer audit..."
           
-          # This flag will be set to 'false' if any file fails the check.
-          AUDIT_PASSED=true
+          # This flag will be set to 1 if any file fails the check.
+          FAILURE_DETECTED=0
 
-          # Find all files ending in .md, but exclude the .git directory.
-          # The 'while' loop is a robust way to handle filenames with spaces.
-          find . -type f -name "*.md" ! -path "./.git/*" | while read -r file; do
+          # Find all files ending in .md, excluding the .git directory.
+          # Using a process substitution with a 'while' loop is the safest way.
+          while IFS= read -r file; do
             # Check if the current file is in our exclusion list.
             is_excluded=false
             for excluded_file in "${EXCLUDE_FILES[@]}"; do
@@ -70,7 +64,7 @@ jobs:
 
             # Compare the actual footer with the golden copy.
             if [ "$ACTUAL_FOOTER" != "$GOLDEN_FOOTER" ]; then
-              # If they don't match, print a detailed error and set the flag to false.
+              # If they don't match, print a detailed error and set the failure flag.
               echo "-------------------------------------------------------------"
               echo "ERROR: Footer mismatch in file: $file"
               echo "--- EXPECTED FOOTER ---"
@@ -78,15 +72,15 @@ jobs:
               echo "--- ACTUAL FOOTER ---"
               echo "$ACTUAL_FOOTER"
               echo "-------------------------------------------------------------"
-              AUDIT_PASSED=false
+              FAILURE_DETECTED=1
             else
               # If they match, print a success message for that file.
               echo "OK: Footer check passed for: $file"
             fi
-          done
+          done < <(find . -type f -name "*.md" ! -path "./.git/*")
 
           # After checking all files, check the final status of our flag.
-          if [ "$AUDIT_PASSED" = true ]; then
+          if [ "$FAILURE_DETECTED" -eq 0 ]; then
             echo "SUCCESS: All footers are correct and consistent."
             exit 0 # Exit with a success code
           else
