@@ -245,9 +245,43 @@ To ensure perpetual and robust oversight, the NSIS shall be accountable to a mul
 
 ### ARTICLE V: INTERNATIONAL COMMERCE AND AID
 
-*   **Section 1: The Principle of Free and Fair Trade**
-*   **Section 2: Prohibitions on Strategic Dependencies**
-*   **Section 3: Foreign Aid and National Benevolence**
+#### **Section 1: The Principle of Free and Fair Trade**
+
+1.  The nation shall seek peace and prosperity through a policy of free and fair trade with all nations. The purpose of international commerce is to benefit the citizens of the nation through mutual exchange, not to serve as an instrument of foreign policy.
+
+2.  All trade agreements are subject to the supremacy of the **Charter of Immutable Principles** and must not compromise the nation's sovereignty or its **Mandate for Strategic Self-Reliance** as defined in this Act.
+
+3.  The use of broad, unilateral economic sanctions as a tool to coerce political change in another nation is a form of intervention and is prohibited. This shall not be construed to prohibit the imposition of targeted tariffs or trade restrictions necessary to protect the nation's domestic strategic assets or to respond to unfair and predatory trade practices.
+    (a) For the purposes of this Act, "unfair and predatory trade practices" are strictly limited to the verifiable and systematic use of state-sponsored dumping (selling goods below the cost of production), illegal export subsidies, or the theft of intellectual property. This authority shall not be used to punish a nation for its domestic tax, regulatory, or labor policies.
+
+#### **Section 2: Prohibition on Strategic Dependencies**
+
+1.  To protect the nation from foreign coercion, the government is hereby mandated to prevent the formation of **Strategic Dependencies**.
+
+2.  A Strategic Dependency is defined as a state in which a single foreign power, or a bloc of closely aligned foreign powers, gains the ability to control more than fifty percent (50%) of the domestic supply of any asset designated as "critical to national security" under **Article I, Section 4** of this Act.
+    (a) For the purpose of calculating this fifty percent threshold, the holdings of any and all corporations, sovereign wealth funds, or other entities that are found by the **National Security and Intelligence Service (NSIS)** to be under the effective direction or beneficial ownership of a single foreign state shall be aggregated and treated as a single entity.
+
+3.  If a potential Strategic Dependency is identified by the **National Security and Intelligence Service (NSIS)**, the government shall be constitutionally required to take remedial action. Such action may include the imposition of import quotas, the creation of strategic stockpiles, or the implementation of incentives to increase domestic production, with the goal of ensuring the security of the nation's critical supply chains.
+
+4.  **Mandatory Annual Review:** The Director of the **National Security and Intelligence Service (NSIS)** shall, no later than the first of March each year, personally present a **"Report on Strategic Dependencies"** to a joint session of the **Permanent Select Committee on Intelligence** and the **Senate Committee on National Security.** This report shall be a public document and shall provide a detailed assessment of the current level of foreign control or influence over every asset designated as "critical to national security." The Director must personally certify the accuracy of the report. This mandatory, public reporting constitutes the official act of "identification" for the purposes of this Act.
+
+#### **Section 3: Foreign Aid and National Benevolence**
+
+1.  The nation shall not be indifferent to the suffering of others. The provision of humanitarian aid shall be guided by the principles of compassion, stewardship, and effectiveness, in a manner consistent with **Article 8 of the Core Immutable Principles (Private Charity and National Benevolence)**.
+
+2.  **Primacy of Private Charity:** The primary and most effective means of delivering aid is through the nation's own highly efficient and accountable **Qualified Charitable Organizations (QCOs)**.
+
+3.  **The National Benevolence Fund:**
+    (a) The Legislature is authorized to appropriate funds to a dedicated, non-lapsable **"National Benevolence Fund."**
+    (b) These funds shall be used exclusively to provide grants to designated Canadian QCOs for the purpose of executing specific, measurable, and apolitical humanitarian relief projects in foreign lands.
+    (c) Permissible projects are strictly limited to disaster relief, famine and hunger relief, and the provision of emergency medical care in response to natural disasters or public health crises.
+    (d) The administration of the National Benevolence Fund and the selection of grant recipients shall be overseen by an **Independent Grant Advisory Board**. This board shall be composed of seven members with recognized expertise in international logistics, disaster relief, and charity governance, appointed by the **Council of National Order** for staggered, non-renewable seven-year terms. The board shall establish and publish objective criteria for evaluating grant proposals and shall make binding recommendations for the disbursement of all funds.
+    (e) To ensure a diversity of partners and to prevent favoritism, no single Qualified Charitable Organization shall be awarded more than **twenty-five percent (25%)** of the total funds disbursed from the National Benevolence Fund in any single fiscal year.
+    (f) To be eligible to receive a grant from the National Benevolence Fund, a Qualified Charitable Organization must certify that its total revenue from all foreign sources (including foreign governments, foreign foundations, and non-citizens) constituted no more than **ten percent (10%)** of its total annual revenue in the preceding fiscal year. This measure is to ensure that public funds are used to augment Canadian benevolence, not to subsidize organizations that may be subject to foreign influence.
+
+4.  **Absolute Prohibition on Direct State-to-State Aid:** To prevent waste, corruption, and the use of aid as a tool of political leverage, the government is irrevocably prohibited from providing direct financial aid, grants, or budget support to any foreign government or state-controlled entity. The government's role is to facilitate the effective charity of its people, not to engage in state-to-state financial transfers.
+
+5.  **The Mandate of Neutrality:** In any region affected by armed conflict, all aid provided through the National Benevolence Fund must be delivered in a strictly neutral and impartial manner. It is prohibited for any grant to be awarded or executed in a way that is intended to, or has the primary effect of, providing a material advantage to any single belligerent in a civil or international conflict.
 
 ---
 ---
