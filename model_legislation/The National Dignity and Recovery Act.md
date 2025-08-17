@@ -125,3 +125,8 @@ NOW THEREFORE, this Legislature enacts the following law to provide for the supp
 **Section 11: Compliance**
 
 (1) Compliance with any Order issued under this Act, including all phases and conditions of Post-Release Supervision, is mandatory. A person who, without reasonable excuse, fails to comply is not guilty of a criminal offence, but may be subject to civil contempt proceedings or be rendered temporarily ineligible for certain non-essential government benefits until compliance is achieved. The Legislature shall enact a statute to define these benefits and procedures.
+
+---
+---
+###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
+###### This document is part of the Dominion Covenant project. Unauthorized reproduction, distribution, or adaptation of this work is prohibited.

@@ -618,3 +618,8 @@ Every one who, without lawful authority, seizes, confines, or imprisons a person
 **Section 40: Referral for Intervention**
 
 (1) Any person identified by law enforcement as having provided a sexual service shall not be subject to criminal charges under this Part. They shall be referred for a mandatory civil proceeding under the authority and procedures of **The National Dignity and Recovery Act.**
+
+---
+---
+###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
+###### This document is part of the Dominion Covenant project. Unauthorized reproduction, distribution, or adaptation of this work is prohibited.
