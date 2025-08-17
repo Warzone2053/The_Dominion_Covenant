@@ -185,10 +185,61 @@ The authority to declare a State of War is a sovereign power of the people. It s
 
 ### ARTICLE IV: NATIONAL INTELLIGENCE AND SECURITY
 
-*   **Section 1: Establishment of the National Security and Intelligence Service (NSIS)**
-*   **Section 2: Mandate: Foreign Intelligence and Counter-Intelligence**
-*   **Section 3: Absolute Prohibition on Domestic Powers**
-*   **Section 4: Oversight and Accountability**
+#### **Section 1: Establishment of the National Security and Intelligence Service (NSIS)**
+
+1.  There is hereby established a single, civilian agency of government responsible for the nation's foreign intelligence and counter-intelligence activities, which shall be known as the **National Security and Intelligence Service (NSIS)**.
+
+2.  The creation of any other agency, whether civilian or military, with a mandate for secret intelligence gathering is prohibited.
+
+3.  The NSIS shall be an independent, non-partisan agency operating under the authority of the executive branch. The Director of the NSIS shall be nominated by the Prime Minister and must be confirmed by a **two-thirds supermajority vote** of the Senate for a single, non-renewable term of ten years.
+
+#### **Section 2: Mandate: Foreign Intelligence and Counter-Intelligence**
+
+1.  The sole and exclusive mandate of the NSIS is to defend the sovereignty and security of the nation from **foreign threats**.
+
+2.  To fulfill this mandate, the NSIS is authorized to undertake the following activities:
+    (a) **Foreign Intelligence:** The collection, analysis, and dissemination of intelligence regarding the capabilities, intentions, and activities of foreign powers and non-state actors outside the nation's borders.
+    (b) **Counter-Intelligence:** The identification, investigation, and neutralization of foreign intelligence-gathering, espionage, sabotage, and covert action activities conducted by or on behalf of foreign powers **within** the nation's borders.
+
+3.  The purpose of all intelligence activities is to provide the government with timely and objective information necessary to conduct foreign policy, protect against foreign aggression, and uphold the principles of this Act.
+
+#### **Section 3: Absolute Prohibition on Domestic Powers**
+
+1.  The NSIS is an instrument of foreign intelligence, not domestic law enforcement. It shall have no police powers.
+
+2.  The NSIS is irrevocably prohibited from:
+    (a) Conducting surveillance on, or maintaining any form of file or record on, a Canadian citizen, unless that citizen is first certified by the **Special Committee of the Supreme Court** as being an agent of a foreign power.
+    (b) Undertaking any physical search, seizure of property, or interception of private communications within Canada, except under the authority of a warrant issued in accordance with the strict procedures defined in this Article.
+    (c) Engaging in any activity for the purpose of suppressing domestic political dissent or monitoring the lawful activities of citizens.
+    (d) Sharing intelligence with domestic law enforcement agencies for any purpose other than to alert them to an imminent threat of terrorist violence or to provide evidence of espionage by a foreign power. **Any evidence or investigative lead provided to domestic law enforcement by the NSIS shall be subject to the absolute exclusionary rule of Article 5 of the Charter of Immutable Principles. If a court finds that an investigation was initiated based on information obtained from the NSIS in violation of this Act, all evidence subsequently obtained in that investigation shall be deemed inadmissible.**
+
+3.  All actions undertaken by the NSIS within the sovereign territory of Canada are subject to the **Charter of Immutable Principles**, including the warrant requirements of **Article 5**.
+
+4.  **Definition of "Agent of a Foreign Power":** For the purposes of this Act, a Canadian citizen shall not be considered an "agent of a foreign power" unless the evidence demonstrates, to the standard of probable cause, that the citizen is **knowingly engaged in clandestine activities on behalf of a foreign power, subject to its direction or control, for a purpose that is prejudicial to the sovereignty or security of the nation.** The mere receipt of foreign funding by an organization or the expression of political opinions aligned with a foreign state shall not, in itself, be sufficient to meet this standard.
+
+5.  **Prohibition on Outsourcing Surveillance:** It shall be unlawful for any employee or officer of the NSIS to request, direct, or solicit a foreign intelligence agency to conduct surveillance on a Canadian citizen, whether at home or abroad. Any intelligence on a Canadian citizen obtained from a foreign partner that the NSIS would be prohibited from collecting itself shall be inadmissible in any proceeding and may not be retained or disseminated.
+
+#### **Section 4: Oversight and Accountability**
+
+To ensure perpetual and robust oversight, the NSIS shall be accountable to a multi-layered, independent oversight structure.
+
+1.  **Executive Oversight:** The Prime Minister shall provide high-level strategic direction to the NSIS.
+
+2.  **Legislative Oversight:** There is hereby established a **Permanent Select Committee on Intelligence**, composed of the leaders of each recognized caucus in both the House of Commons and the Senate, and chaired by a member of the official opposition.
+    (a) This committee shall have **absolute and unconditional** access to all intelligence assessments, operational reports, and financial records of the NSIS, **including those related to its most sensitive programs and covert actions.** No claim of operational security may be used to deny the committee access to information necessary for its oversight mandate.
+    (b) The Director of the NSIS must report to this committee in a closed session no less than once every quarter.
+
+3.  **Judicial Oversight and Warrants:** There is hereby established a **Special Committee of the Supreme Court**, composed of three justices of the Supreme Court, to serve as the judicial authority for the NSIS.
+    (a) Any and all warrants for surveillance or search required by the NSIS for its counter-intelligence operations within Canada may only be issued by this Special Committee.
+    (b) The standard for such a warrant shall be a showing of **probable cause** that the target is an agent of a foreign power engaged in clandestine activities against the nation.
+
+4.  **Independent Audit:** The **Office of the Public Tribune** is granted automatic and mandatory jurisdiction to conduct a full financial and performance audit of the NSIS at any time to prevent waste, fraud, and mismanagement.
+
+#### **Section 5: Whistleblower Protections**
+
+1.  Any employee or officer of the NSIS who, in good faith, reports evidence of illegal activity, constitutional violations, or gross mismanagement to any of the oversight bodies established in Section 4 of this Article shall be protected by law from any form of retribution, dismissal, or prosecution.
+
+2.  The act of making such a report through these official, legally protected channels shall not constitute an offense.
 
 ---
 
