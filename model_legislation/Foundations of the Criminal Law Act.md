@@ -622,4 +622,5 @@ Every one who, without lawful authority, seizes, confines, or imprisons a person
 ---
 ---
 ###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
+
 ###### This document is part of the Dominion Covenant project. Unauthorized reproduction, distribution, or adaptation of this work is prohibited.

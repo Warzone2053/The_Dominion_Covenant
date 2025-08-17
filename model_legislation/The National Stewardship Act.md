@@ -59,8 +59,9 @@ For greater clarity, this statute is a **Framework Act** as defined in **Article
 3.  **Distribution Based on Fiscal State.** The allocation of Stewardship Revenue shall be determined by the prevailing Fiscal State of the nation:
     (a) **During a State of Normal Operation:** Fifty percent (50%) of all Stewardship Revenue shall be used to pay down the principal of any outstanding national debt (such as Recovery Bonds). The remaining fifty percent (50%) shall be distributed as the National Stewardship Dividend. If no national debt exists, the full one hundred percent (100%) shall be distributed.
     (b) **During a State of Fiscal Stress or a State of Fiscal Crisis:** One hundred percent (100%) of all Stewardship Revenue shall be distributed as an emergency National Stewardship Dividend to provide direct and immediate economic relief to every household.
-
+    
 ---
 ---
 ###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
+
 ###### This document is part of the Dominion Covenant project. Unauthorized reproduction, distribution, or adaptation of this work is prohibited.
