@@ -284,6 +284,22 @@ To ensure perpetual and robust oversight, the NSIS shall be accountable to a mul
 5.  **The Mandate of Neutrality:** In any region affected by armed conflict, all aid provided through the National Benevolence Fund must be delivered in a strictly neutral and impartial manner. It is prohibited for any grant to be awarded or executed in a way that is intended to, or has the primary effect of, providing a material advantage to any single belligerent in a civil or international conflict.
 
 ---
+
+### ARTICLE VI: GENERAL PROVISIONS
+
+#### **Section 1: Framework Act Status**
+
+1.  This Act is a **Framework Act** as defined in the **Constitution of Government**. Its provisions are subordinate only to the **Charter of Immutable Principles** and the **Constitution of Government**.
+
+2.  In the event of a conflict between a provision of this Act and a provision of any other ordinary statute, the provisions of this Act shall prevail.
+
+#### **Section 2: Severability**
+
+1.  If any article, section, clause, or provision of this Act is declared by the Supreme Court of Canada to be unconstitutional or otherwise invalid, such a finding shall not affect the validity of the remaining portions of this Act.
+
+2.  The remaining articles, sections, clauses, and provisions shall remain in full force and effect as if the invalid portion had never been enacted.
+
+---
 ---
 ###### Copyright © 2025 Jadon.M.Banninga. All Rights Reserved.
 
