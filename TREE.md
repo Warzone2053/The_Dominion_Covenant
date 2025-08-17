@@ -21,11 +21,8 @@
 │   ├── The National Militia Act.md
 │   ├── The National Security and Foreign Policy Act.md
 │   └── The National Stewardship Act.md
-├── Prompt.md
 ├── README.md
 ├── reference
 │   └── Defined_Terms_Concordance.md
 ├── STYLE_GUIDE.md
 └── TREE.md
-
-5 directories, 24 files
