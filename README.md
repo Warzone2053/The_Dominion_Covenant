@@ -1,6 +1,7 @@
 # The Dominion Covenant
 
 ![Project Status](https://img.shields.io/badge/status-work--in--progress-yellow)
+[![Footer Audit Status](http://192.168.50.3:3000/Jadon/The-Dominion-Covenant/actions/workflows/footer-audit.yml/badge.svg?branch=main)](https://http://192.168.50.3:3000/Jadon/The-Dominion-Covenant/actions/workflows/footer-audit.yml)
 
 ## Introduction
 
