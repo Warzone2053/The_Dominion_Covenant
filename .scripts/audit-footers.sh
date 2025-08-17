@@ -14,32 +14,16 @@ EOF
 
 FOOTER_LINES=$(echo "$GOLDEN_FOOTER" | wc -l)
 
-EXCLUDE_FILES=(
-  "./TREE.md"
-  "./ACKNOWLEDGMENTS.md"
-  "./LICENSE.md"
-)
-
 # --- SCRIPT LOGIC ---
-echo "Starting copyright footer audit..."
+echo "Starting copyright footer audit on 'charters' and 'model_legislation' directories..."
 
 FAILURES_FILE=$(mktemp)
 
-find . -type f -name "*.md" ! -path "./.git/*" ! -path "./.scripts/*" | while IFS= read -r file; do
-  is_excluded=false
-  for excluded_file in "${EXCLUDE_FILES[@]}"; do
-    if [[ "$file" == "$excluded_file" ]]; then
-      is_excluded=true
-      break
-    fi
-  done
-
-  if [ "$is_excluded" = true ]; then
-    echo "INFO: Skipping excluded file: $file"
-    continue
-  fi
-
-  ACTUAL_FOOTER=$(tail -n "$FOOT_LINES" "$file")
+# This 'find' command is now restricted to search ONLY within the specified directories.
+# As a result, the old 'EXCLUDE_FILES' list is no longer needed.
+find ./charters ./model_legislation -type f -name "*.md" | while IFS= read -r file; do
+  
+  ACTUAL_FOOTER=$(tail -n "$FOOTER_LINES" "$file")
 
   if [ "$ACTUAL_FOOTER" != "$GOLDEN_FOOTER" ]; then
     echo "-------------------------------------------------------------"
