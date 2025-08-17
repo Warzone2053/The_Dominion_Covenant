@@ -1,0 +1,18 @@
+# .gitea/workflows/footer-audit.yml
+
+name: "Copyright Footer Audit"
+
+on: [push, pull_request]
+
+jobs:
+  audit-footers:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Run Footer Audit Script
+        # This step is now very simple. It just executes our external script.
+        # All the complex logic is safely inside the .sh file.
+        run: ./.scripts/audit-footers.sh
