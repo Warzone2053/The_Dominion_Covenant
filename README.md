@@ -2,6 +2,13 @@
 
 ![Project Status](https://img.shields.io/badge/status-work--in--progress-yellow)
 [![Footer Audit Status](http://192.168.50.3:3000/Jadon/The-Dominion-Covenant/actions/workflows/footer-audit.yml/badge.svg?branch=main)](https://http://192.168.50.3:3000/Jadon/The-Dominion-Covenant/actions/workflows/footer-audit.yml)
+[![Last Commit](http://192.168.50.3:3000/api/v1/repos/Jadon/The-Dominion-Covenant/shields/last-commit)](http://192.168.50.3:3000/Jadon/The-Dominion-Covenant/commits/main)
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE.md)
+[![Contribution Guidelines](https://img.shields.io/badge/Contribution-Guidelines-blue.svg)](CONTRIBUTING.md)
+
+![Foundation: Immutable Principles](https://img.shields.io/badge/Foundation-Immutable%20Principles-992222.svg)
+![Framework: Constitution](https://img.shields.io/badge/Framework-Constitution-335599.svg)
+![Compass: National Covenant](https://img.shields.io/badge/Compass-National%20Covenant-b8860b.svg)
 
 ## Introduction
 
