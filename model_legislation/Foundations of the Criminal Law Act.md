@@ -104,6 +104,8 @@ NOW THEREFORE, this Legislature enacts the following foundational criminal law f
 
 (4) A sentence must be proportionate to the gravity of the offence and the degree of responsibility of the offender.
 
+(5) A sentence may be appealed on the grounds that it is unreasonable. A sentence shall be deemed unreasonable if the sentencing judge has committed a clear error in law or if the judge has grossly misapplied the virtues of the **National Covenant** in determining the sanction.
+
 ---
 
 ### PART II: OFFENCES AGAINST GOD AND THE NATION
