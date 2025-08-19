@@ -1,15 +1,5 @@
 # The Dominion Covenant
 
-![Project Status](https://img.shields.io/badge/status-work--in--progress-yellow)
-[![Footer Audit Status](http://192.168.50.3:3000/Jadon/The-Dominion-Covenant/actions/workflows/footer-audit.yml/badge.svg?branch=main)](https://http://192.168.50.3:3000/Jadon/The-Dominion-Covenant/actions/workflows/footer-audit.yml)
-[![Last Commit](http://192.168.50.3:3000/api/v1/repos/Jadon/The-Dominion-Covenant/shields/last-commit)](http://192.168.50.3:3000/Jadon/The-Dominion-Covenant/commits/main)
-[![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE.md)
-[![Contribution Guidelines](https://img.shields.io/badge/Contribution-Guidelines-blue.svg)](CONTRIBUTING.md)
-
-![Foundation: Immutable Principles](https://img.shields.io/badge/Foundation-Immutable%20Principles-992222.svg)
-![Framework: Constitution](https://img.shields.io/badge/Framework-Constitution-335599.svg)
-![Compass: National Covenant](https://img.shields.io/badge/Compass-National%20Covenant-b8860b.svg)
-
 ## Introduction
 
 The Dominion Covenant is a comprehensive, first-principles thought experiment in constitutional design. It represents a complete architectural blueprint for a potential future Canada, rebuilt from the ground up on a foundation of enduring moral principles, limited government, and robust individual liberty.
@@ -60,18 +50,21 @@ For a reader new to the project, the following path is recommended for a compreh
 
 ---
 
+## How to Contribute & Engage
+
+This project is open to rigorous, good-faith intellectual review and collaboration from serious minds. While the foundational principles are set, the work of strengthening the framework, closing loopholes, and ensuring internal consistency is an ongoing process.
+
+If you are interested in contributing, your first step is to read our detailed guide, which outlines the project's philosophy, the ideal contributor profile, and the step-by-step process for engagement.
+
+*   **[Guide: Becoming a Project Collaborator](/docs/BECOMING_A_COLLABORATOR.md)**
+
+High-level philosophical and structural debates are held in the **[Discussions](https://github.com/YourUsername/The-Dominion-Covenant/discussions)** tab. Specific, actionable proposals for changes should be made in the **[Issues](https://github.com/YourUsername/The-Dominion-Covenant/issues)** tab after a thorough review of the guide.
+
+---
+
 ## Current Status
 
 This project is a developmental work-in-progress. The documents are subject to revision as logical inconsistencies, potential loopholes, and structural weaknesses are identified and corrected.
-
-## Feedback & Engagement
-
-This project is made available for the purpose of serious intellectual and philosophical review. Rigorous, good-faith criticism is welcome. Feedback should focus on:
-
-*   Theological consistency and integrity.
-*   Potential legal loopholes or ambiguities.
-*   The risk of unintended consequences.
-*   The structural soundness of the checks and balances.
 
 ---
 
