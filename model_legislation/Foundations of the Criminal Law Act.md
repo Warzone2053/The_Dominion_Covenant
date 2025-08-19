@@ -82,6 +82,30 @@ NOW THEREFORE, this Legislature enacts the following foundational criminal law f
     (b) **Liability for Mistake:** If a person makes an arrest based on a mistake:
         (i) **Mistake of Identity:** They are justified and protected from liability if they had reasonable grounds to believe the person they arrested was the one who committed the offence.
         (ii) **Mistake of Offence:** They are **not protected** from liability if it is discovered that **no indictable offence was actually committed** or attempted by anyone in relation to the circumstances.
+
+---
+
+**Section 1C: Principles of Sentencing**
+
+(1) The fundamental purpose of sentencing is to contribute to respect for the law and the maintenance of a just, peaceful, and safe society by imposing just sanctions that have one or more of the following objectives:
+    (a) to denounce unlawful conduct and the harm done to victims and the community;
+    (b) to deter the offender and other persons from committing offences;
+    (c) to separate offenders from society, where necessary;
+    (d) to assist in rehabilitating offenders;
+    (e) to provide reparations for harm done to victims or to the community; and
+    (f) to promote a sense of responsibility in offenders, and an acknowledgment of the harm done.
+
+(2) **Mandatory Consideration of the National Covenant.** In determining a just sanction, and in weighing the objectives listed above, a sentencing judge **shall give primary consideration to the virtues articulated in the National Covenant**. The judge must, in their written reasons for sentencing, explicitly state which virtues were considered and how they informed the final sentence.
+
+(3) **Specific Application of Virtues.** Without limiting the generality of the foregoing, the judge shall consider:
+    (a) The virtues of **Justice** and **Personal Responsibility** when considering the gravity of the offence and the offender's moral culpability.
+    (b) The virtue of **Mercy** when considering the personal circumstances of the offender and any mitigating factors.
+    (c) The virtue of **Reconciliation** when considering restorative justice objectives and reparations to the victim and the community.
+
+(4) A sentence must be proportionate to the gravity of the offence and the degree of responsibility of the offender.
+
+(5) A sentence may be appealed on the grounds that it is unreasonable. A sentence shall be deemed unreasonable if the sentencing judge has committed a clear error in law or if the judge has grossly misapplied the virtues of the **National Covenant** in determining the sanction.
+
 ---
 
 ### PART II: OFFENCES AGAINST GOD AND THE NATION
