@@ -41,69 +41,72 @@ We are looking for individuals who fit one or more of the following profiles:
 
 ---
 
-### 3. The Path to Collaboration: A Step-by-Step Guide
+### 3. The Path to Collaboration
 
 If the philosophy above resonates with you, here is how you can become an active contributor:
 
-1.  **Step 1: Immerse Yourself.** The prerequisite for any meaningful contribution is a thorough understanding of the existing work. Before engaging, please read the following in order:
-    *   The three foundational charters (`00`, `01`, `02`, `03`).
-    *   The `Defined_Terms_Concordance.md`. This is essential.
-    *   At least one piece of model legislation that interests you.
+1.  **Step 1: Immerse Yourself.** The prerequisite for any meaningful contribution is a thorough understanding of the existing work. Before engaging, please read the foundational charters (`00`, `01`, `02`, `03`) and the `Defined_Terms_Concordance.md`.
 
-2.  **Step 2: Join the Discussion.** The primary forum for collaboration is the **GitHub Discussions** tab of this repository. This is where we engage in high-level debate and explore broad ideas.
-    *   **Introduce yourself:** Start a new discussion thread to introduce yourself, your background or areas of interest, and your initial thoughts on the project.
-    *   **Engage with existing topics:** Read through the current discussions and add your voice where you feel you can provide a valuable perspective.
+2.  **Step 2: Join the Discussion.** The primary forum for collaboration is the **GitHub Discussions** tab of this repository. This is where we engage in high-level debate. Introduce yourself, engage with existing topics, or tackle one of the pinned "Hard Problems."
 
-3.  **Step 3: Tackle a "Hard Problem".** The project maintains a list of known "Hard Problems"—areas where the framework is still under active development or requires more rigorous stress-testing. (This could be a pinned discussion thread or a separate document). This is the best place to focus your intellectual energy and make an immediate impact.
+3.  **Step 3: Propose a Change.** We use a two-tier model for contributions:
 
-4.  **Step 4: Making Your First Contribution.** Substantive changes to the documents should always begin with a conversation. We use a two-tier model for contributions:
-
-    *   **Tier 1: Minor Fixes (Your First Handshake)**
-        If you spot a typo, a broken link, a formatting error that violates the `STYLE_GUIDE.md`, or any other minor, objective correction, please feel free to submit a **Pull Request** directly. This is the perfect way to make your first contribution. It demonstrates attention to detail and a willingness to help, and it is greatly appreciated.
-
-    *   **Tier 2: Substantive Changes (Your Formal Proposal)**
-        If you wish to propose a change that alters the meaning, logic, or substance of the text, **do not submit an unsolicited Pull Request.** Instead, you must follow this process:
-        1.  **Open a GitHub Issue:** Create a new issue that clearly and concisely describes the problem you've identified or the improvement you're proposing. Explain *why* the change is necessary and how it aligns with the project's foundational principles.
-        2.  **Discuss the Solution:** Engage in a good-faith discussion within the issue to refine the proposal. The goal is to reach a consensus on a course of action *before* any work is done.
-        3.  **Submit the PR:** Once the proposal has been approved in the issue, you may then submit a Pull Request that implements the agreed-upon solution. Please link the PR back to the original issue for context.
+    *   **For Minor Fixes (Typos, Formatting):** Feel free to submit a **Pull Request** directly. This is a great way to make a first contribution.
+    *   **For Substantive Changes (Altering Logic or Meaning):** You **must** first open a **GitHub Issue** to propose and discuss the change. Once it is approved, you may then submit a Pull Request that implements the agreed-upon solution.
 
     For substantive matters, the **quality of your argument in the issue is your application.** The Pull Request is the final, practical demonstration of your ability to execute the solution.
 
 ---
 
-### 4. A Zero-Tolerance Policy on Disruptive Conduct
+### 4. Technical Workflow and Standards
 
-To maintain a high standard of intellectual discourse and protect the project from derailment, the following behaviors are strictly prohibited and will be subject to a zero-tolerance policy:
+To maintain a clean and understandable project history, all contributions must adhere to the following technical standards:
 
-*   **Personal Attacks:** Ad hominem arguments, insults, name-calling, or any other form of communication that attacks a person rather than their ideas.
-*   **Bad-Faith Engagement:** Trolling, sealioning (demanding endless evidence in bad faith), deliberate misrepresentation of the text, or otherwise engaging in a manner intended to waste time and disrupt productive conversation.
-*   **Incitement and Dehumanization:** This project is founded on the absolute dignity of the individual. Therefore, the following are strictly prohibited:
-    *   **Advocating Violence:** Any language that promotes, encourages, or calls for physical violence to be inflicted upon any person or group.
-    *   **Promoting Dehumanization:** Any language that denies the fundamental human dignity of another person or argues that a specific class of people should be stripped of their basic rights, legal standing, or equality before the law.
-    
-    For greater clarity, this policy exists to protect the *dignity and rights of persons*, not to shield *ideas or the foundational texts themselves* from rigorous and critical debate.
-*   **Spam and Off-Topic Promotion:** Posting irrelevant content, advertisements, or repeatedly pushing an unrelated agenda.
-*   **Persistent Refusal to Engage with the Project's Foundation:** While constructive critique is the purpose of this collaboration, a persistent and hostile refusal to operate within the established foundational principles (as outlined in Section 1) is not productive and will be considered disruptive conduct.
+*   **Branching Strategy:** All work must be done on a separate **feature branch**. Branch names should be descriptive, using a `type/description` format (e.g., `feat/add-tribune-powers`, `fix/clarify-senate-voting`). Direct commits to the `main` branch are prohibited.
 
-Violation of this policy will result in an **immediate and permanent ban** from all project collaboration spaces, including discussions, issues, and the ability to comment. **No warnings will be issued.** This policy will be enforced solely at the discretion of the project owner.
+*   **Commit Message Convention:** We use the **Conventional Commits** standard. This creates a clear and machine-readable commit history. The format is `type(scope): subject`. Please review the `STYLE_GUIDE.md` for a full list of valid types and scopes.
 
-This policy is not intended to stifle rigorous debate, but to ensure that all debate is productive, respectful, and focused on the shared goal of strengthening the Dominion Covenant.
+*   **The Git Workflow:**
+    1.  Ensure your local `main` branch is up-to-date.
+    2.  Create a new feature branch from `main`.
+    3.  Make your changes. Commit your work in small, logical chunks with clear commit messages.
+    4.  Push your branch to the remote repository.
+    5.  Open a **Pull Request (PR)** to merge your feature branch into `main`. Provide a clear description of the changes in the PR and link it to any relevant Issue.
+    6.  After the PR is reviewed and approved, it will be merged by the project owner.
 
 ---
 
-### 5. Project Governance and Recognition
+### 5. A Zero-Tolerance Policy on Disruptive Conduct
 
-#### 5.1 Governance Model
+To maintain a high standard of intellectual discourse, the following behaviors are strictly prohibited and will result in an immediate and permanent ban without warning:
 
-To ensure the Dominion Covenant maintains its singular voice and philosophical coherence, the project is managed under a **"Benevolent Dictator for Life" (BDFL)** model. This is a standard governance model in many curated projects. It means that while open discussion, vigorous debate, and community contributions are highly encouraged and valued, the final decision on what is ultimately merged into the project rests with the original author, Jadon.M.Banninga.
+*   **Personal Attacks:** Attacking a person rather than their ideas.
+*   **Bad-Faith Engagement:** Trolling, deliberate misrepresentation, or engaging in a manner intended to disrupt productive conversation.
+*   **Incitement and Dehumanization:** Advocating violence or promoting the denial of any person's fundamental human dignity or rights.
+*   **Spam and Off-Topic Promotion.**
+*   **Persistent Refusal to Engage with the Project's Foundation.**
 
-This is not a reflection on the quality of any single contribution, but a necessary mechanism to ensure the final work remains a cohesive and internally consistent whole. Every idea will be considered on its merits, and every decision will be explained transparently.
+This policy exists to protect the *dignity and rights of persons*, not to shield *ideas* from rigorous and critical debate.
 
-#### 5.2 Recognition of Contributions
+---
 
-This project believes in honoring the intellectual and creative labor of its collaborators. All individuals who make a substantive contribution—whether through identifying a critical flaw, proposing a significant refinement, or offering a key insight that improves the text—will be formally and publicly credited.
+### 6. Contribution Policy and License Agreement
 
-A dedicated `ACKNOWLEDGMENTS.md` file is maintained for this purpose. This is our way of ensuring that while the final work remains a cohesive whole under a single copyright, the many minds that helped to sharpen and strengthen it receive the honor they are due.
+By submitting a pull request, you represent that you have the right to license your contribution, and you agree that your contribution is licensed to the Dominion Covenant project ("the Project") under the following terms:
+
+1.  **Grant of License:** You grant to the Project and its owner a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute your contributions and such derivative works.
+
+2.  **Cession of Rights:** You agree that your contribution becomes an integral part of the Project. You waive any right to claim ownership over the final, combined work or to demand the removal of your contribution from the Project at a later date.
+
+In short, by contributing, you are gifting your improvements to the Project to be used without restriction, and you agree that the project owner will retain sole and exclusive copyright over the work as a whole.
+
+---
+
+### 7. Project Governance and Recognition
+
+*   **Governance Model:** This project is managed under a **"Benevolent Dictator for Life" (BDFL)** model. While open discussion is highly encouraged, the final decision on what is merged rests with the original author to ensure a cohesive and philosophically consistent final work.
+
+*   **Recognition of Contributions:** All individuals who make a substantive contribution will be formally and publicly credited in the dedicated `ACKNOWLEDGMENTS.md` file.
 
 ---
 
