@@ -10,6 +10,19 @@ The documents contained herein are a work-in-progress, representing a rigorous e
 
 ---
 
+## Table of Contents
+
+- [Guiding Principles](#guiding-principles)
+- [Key Features](#key-features)
+- [Project Structure](#project-structure)
+- [Recommended Reading Path](#recommended-reading-path)
+- [Philosophical Context: The Memorandums](#philosophical-context-the-memorandums)
+- [How to Contribute & Engage](#how-to-contribute--engage)
+- [Current Status](#current-status)
+- [DISCLAIMER](#disclaimer)
+
+---
+
 ## Guiding Principles
 
 The architecture of the Dominion Covenant is built upon several foundational pillars:
@@ -19,6 +32,17 @@ The architecture of the Dominion Covenant is built upon several foundational pil
 *   **Limited Government & Fiscal Sovereignty:** The power of the state is strictly enumerated and constitutionally limited. It is fiscally bound by a balanced operational budget and a hard cap on its power to tax.
 *   **Individual Liberty & Personal Responsibility:** Rights are understood as divine endowments, not state grants. Chief among them are the rights to life, liberty, and property. These rights are intrinsically linked to a high view of personal duty and virtue.
 *   **Decentralized Power & Subsidiarity:** To prevent the concentration of tyrannical power, authority is intentionally distributed among multiple competing institutions and pushed down to the lowest, most local level capable of exercising it.
+
+---
+
+## Key Features
+
+The Dominion Covenant introduces several unique constitutional structures designed to secure liberty and ensure accountability:
+
+*   **The Public Tribune:** A powerful, independent fourth branch of government, staffed by a citizen jury, with the absolute authority to investigate and censure any part of the state, serving as the people's permanent watchdog.
+*   **The Regulated Militia:** The prohibition of a professional standing army in favor of a decentralized, well-regulated provincial militia system based on universal service, placing the power of the sword irrevocably in the hands of the people.
+*   **Fiscal State Mechanism:** A constitutionally mandated system that automatically adjusts the government's fiscal rules based on objective economic indicators, enforcing balanced budgets in normal times and allowing for limited, controlled deficits during crises.
+*   **Framework Legislation:** A special class of constitutionally significant laws that require a supermajority to pass and amend, ensuring the stability of the nation's core institutions.
 
 ---
 
@@ -46,7 +70,23 @@ For a reader new to the project, the following path is recommended for a compreh
 
 3.  **Theory into Practice:** Once the foundation is understood, explore a piece of model legislation to see how it works in practice. A good starting point is **[The National Militia Act](model_legislation/The%20National%20Militia%20Act.md)**, as it directly implements several of the Covenant's most unique principles.
 
-4.  **Use the Concordance:** As you read, keep the **[Defined Terms Concordance](reference/Defined_Terms_Concordance.md)** open. It is an invaluable tool for understanding the precise legal meaning of capitalized terms used throughout the project.
+4.  **The "Why" Behind the "What":** After grasping the structure, read the foundational **Memorandums** to understand the core philosophy and first principles that motivated the design choices.
+
+5.  **Use the Concordance:** As you read, keep the **[Defined Terms Concordance](reference/Defined_Terms_Concordance.md)** open. It is an invaluable tool for understanding the precise legal meaning of capitalized terms used throughout the project.
+
+---
+
+## Philosophical Context: The Memorandums
+
+While the Charters and Model Legislation provide the "what" of the Dominion Covenant, the **Memorandums** provide the essential "why." They are the architect's commentary, explaining the first principles and the philosophical choices behind the Covenant's most significant and unique features. Understanding these documents is critical to understanding the soul of the project.
+
+*   **[Memorandum on the Philosophy and Architecture of the Dominion Covenant](docs/Memorandum%20on%20the%20Philosophy%20and%20Architecture%20of%20the%20Dominion%20Covenant.md)**: The master key to the project. It explains the "Year Zero" premise and the Trinitarian architecture that unites the three core charters into a single, coherent whole.
+
+*   **[Memorandum on the Foundation of Law and Liberty](docs/Memorandum%20on%20the%20Foundation%20of%20Law%20and%20Liberty:%20A%20Defense%20of%20the%20Covenanted%20State.md)**: A defense of the project's most fundamental choice: founding the state on the authority of Divine Law (Theonomy) rather than secular humanism. It argues that a Covenanted State is the only viable path to lasting liberty.
+
+*   **[Memorandum on the Doctrine of the Sword](docs/Memorandum%20on%20the%20Doctrine%20of%20the%20Sword%20and%20the%20Office%20of%20the%20Citizen-Soldier.md)**: Explains the reasoning behind the absolute prohibition of a professional standing army and the constitutional necessity of a well-regulated citizen militia as the ultimate guarantor of domestic liberty.
+
+*   **[Memorandum on the Commonwealth of Nations](docs/Memorandum%20on%20the%20Commonwealth%20of%20Nations%20and%20the%20Principle%20of%20Sovereign%20Partnership.md)**: Clarifies the Covenant's foreign policy stance, rejecting membership in the modern Commonwealth in favor of a new, stronger "Sovereign Compact" among core Westminster nations.
 
 ---
 
