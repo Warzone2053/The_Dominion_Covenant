@@ -34,4 +34,4 @@ To maintain a high standard of discourse, the following behaviors are strictly p
 *   Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project owner directly.
 *   Any contributor who violates this Code of Conduct will, at the discretion of the project owner, be subject to an immediate and permanent ban from all project spaces, including the GitHub repository and any associated discussion forums.
 
-This policy exists to protect the *dity and rights of persons*, not to shield *ideas* from rigorous and critical debate.
+This policy exists to protect the *dignity and rights of persons*, not to shield *ideas* from rigorous and critical debate.
