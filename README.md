@@ -82,7 +82,7 @@ While the Charters and Model Legislation provide the "what" of the Dominion Cove
 
 *   **[Memorandum on the Philosophy and Architecture of the Dominion Covenant](docs/Memorandum%20on%20the%20Philosophy%20and%20Architecture%20of%20the%20Dominion%20Covenant.md)**: The master key to the project. It explains the "Year Zero" premise and the Trinitarian architecture that unites the three core charters into a single, coherent whole.
 
-*   **[Memorandum on the Foundation of Law and Liberty](docs/Memorandum%20on%20the%20Foundation%20of%20Law%20and%20Liberty:%20A%20Defense%20of%20the%20Covenanted%20State.md)**: A defense of the project's most fundamental choice: founding the state on the authority of Divine Law (Theonomy) rather than secular humanism. It argues that a Covenanted State is the only viable path to lasting liberty.
+*   **[Memorandum on the Divine Foundation of Law](docs/Memorandum%20on%20the%20Divine%20Foundation%20of%20Law.md)**: A defense of the project's most fundamental choice: founding the state on the authority of Divine Law (Theonomy) rather than secular humanism. It argues that a Covenanted State is the only viable path to lasting liberty.
 
 *   **[Memorandum on the Doctrine of the Sword](docs/Memorandum%20on%20the%20Doctrine%20of%20the%20Sword%20and%20the%20Office%20of%20the%20Citizen-Soldier.md)**: Explains the reasoning behind the absolute prohibition of a professional standing army and the constitutional necessity of a well-regulated citizen militia as the ultimate guarantor of domestic liberty.
 
