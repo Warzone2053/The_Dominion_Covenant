@@ -14,7 +14,14 @@ NOW THEREFORE, this Legislature enacts the following foundational criminal law f
 
 ### PART I: GENERAL PRINCIPLES
 
-**Section 1: Basis of Criminal Responsibility**
+**Section 1: Definitions**
+
+(1) For the purposes of this Act:
+    (a) **"Dwelling-house"** means a building or structure, or any part thereof, that is kept or occupied as a permanent or temporary residence. This includes any building or structure that is connected to it by a doorway or a covered and enclosed passageway, and any mobile unit that is occupied as a residence.
+
+---
+
+**Section 1A: Basis of Criminal Responsibility**
 
 (1) A person is not guilty of an offence unless their conduct is proscribed by law and their guilt is proven beyond a reasonable doubt in a fair and public trial.
 
@@ -28,7 +35,7 @@ NOW THEREFORE, this Legislature enacts the following foundational criminal law f
 
 ---
 
-**Section 1A: Justifiable Use of Force**
+**Section 1B: Justifiable Use of Force**
 
 **(1) Defense of Person:** A person is justified in using force against another when and to the extent that they **reasonably believe** such force is necessary to defend themselves or another person against the other's imminent use of unlawful force.
 
@@ -59,7 +66,7 @@ NOW THEREFORE, this Legislature enacts the following foundational criminal law f
 
 ---
 
-**Section 1B: Arrest by a Private Citizen**
+**Section 1C: Arrest by a Private Citizen**
 
 **(1) Grounds for Arrest:** Any person may arrest another person without a warrant if they **find them committing**, or have reasonable grounds to believe they have just committed and are escaping from, an **indictable offence**.
     (a) For the purposes of this section, "committing" includes being in the act of **attempting** to commit an indictable offence.
@@ -73,7 +80,7 @@ NOW THEREFORE, this Legislature enacts the following foundational criminal law f
     (a) effect a lawful arrest under this section; or
     (b) stop another person whom they find in the act of committing an indictable offence.
 
-**(4) Prohibition on Lethal Force:** The use of lethal force is **not justified** under the authority of this section unless the force is otherwise justified under **Section 1A (Justifiable Use of Force)**. For greater clarity, a citizen may not use lethal force solely to effect an arrest or prevent the escape of a person for a property-related crime. Lethal force is only permissible if the person being arrested or stopped poses a threat of imminent death or grievous bodily harm to the citizen or another person.
+**(4) Prohibition on Lethal Force:** The use of lethal force is **not justified** under the authority of this section unless the force is otherwise justified under **Section 1B (Justifiable Use of Force)**. For greater clarity, a citizen may not use lethal force solely to effect an arrest or prevent the escape of a person for a property-related crime. Lethal force is only permissible if the person being arrested or stopped poses a threat of imminent death or grievous bodily harm to the citizen or another person.
 
 **(5) Duty After Arrest or Intervention:** A person who makes an arrest or uses force to stop an offence under this section shall, **without unreasonable delay**, deliver any person they have detained to a peace officer to be dealt with according to law.
 
@@ -85,7 +92,7 @@ NOW THEREFORE, this Legislature enacts the following foundational criminal law f
 
 ---
 
-**Section 1C: Principles of Sentencing**
+**Section 1D: Principles of Sentencing**
 
 (1) The fundamental purpose of sentencing is to contribute to respect for the law and the maintenance of a just, peaceful, and safe society by imposing just sanctions that have one or more of the following objectives:
     (a) to denounce unlawful conduct and the harm done to victims and the community;
@@ -642,6 +649,116 @@ Every one who, without lawful authority, seizes, confines, or imprisons a person
 **Section 40: Referral for Intervention**
 
 (1) Any person identified by law enforcement as having provided a sexual service shall not be subject to criminal charges under this Part. They shall be referred for a mandatory civil proceeding under the authority and procedures of **The National Dignity and Recovery Act.**
+
+---
+
+### PART XI: ARSON AND RELATED OFFENCES
+
+**Section 41: Definitions**
+
+(1) For the purposes of this Part:
+    (a) "Explosive substance" includes any material capable of producing a pyrotechnic effect or a sudden and violent expansion of gases.
+    (b) "Incendiary device" means any device that is designed to cause, or is adapted for the purpose of causing, a fire or explosion.
+    (c) "Incendiary material" means any substance that is possessed for the primary purpose of being used to cause a fire or explosion.
+
+---
+
+**Section 42: Arson - Disregard for Human Life**
+
+(1) Every one commits arson who intentionally or recklessly causes damage to property by fire or explosion when they know that or are reckless with respect to whether the property is inhabited, or when they cause bodily harm to another person.
+    (a) For the purposes of this section, a property is deemed to be "inhabited" if it is a dwelling-house, regardless of whether a person is physically present at the time of the offence.
+
+(2) Every one who commits an offence under this section is guilty of an indictable offence and liable to imprisonment for life.
+
+---
+
+**Section 43: Arson - Damage to Property**
+
+(1) Every one commits arson who intentionally or recklessly causes damage by fire or explosion to property that is not inhabited.
+
+(2) Every one who commits an offence under this section is guilty of an indictable offence and liable to imprisonment for a term not exceeding fourteen years.
+
+---
+
+**Section 44: Arson for Fraudulent Purpose**
+
+(1) Every one who causes damage by fire or explosion to property, whether or not that person owns the property, with intent to defraud any other person, is guilty of an indictable offence and liable to imprisonment for a term not exceeding fourteen years.
+
+---
+
+**Section 45: Arson by Negligence**
+
+(1) Every one who owns or controls property and who, as a result of a marked departure from the standard of care that a reasonably prudent person would use to prevent or control the spread of fires, causes a fire or explosion that results in bodily harm to another person or damage to the property of another person, is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years.
+
+---
+
+**Section 46: Possession of Incendiary Material**
+
+(1) Every one who possesses any incendiary material, incendiary device, or explosive substance for the purpose of committing an offence under this Act is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years.
+
+---
+
+### PART XII: OFFENCES RELATED to WEAPONS AND FIREARMS
+
+**Section 47: Definitions**
+
+(1) For the purposes of this Part, "violent offence" means an offence in the commission of which an offender uses, attempts to use, or threatens to use force against another person, and for which the offender is liable to a term of imprisonment of two years or more.
+
+---
+
+**Section 48: Possession Contrary to Prohibition Order**
+
+(1) Every one is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years who knowingly possesses a **firearm or a weapon as defined in Section 25** while they are prohibited from doing so by any order made under this Act or any other Act of the Legislature.
+
+(2) Every one who knowingly possesses ammunition while they are prohibited from doing so by any order is guilty of a hybrid offence.
+    (a) If the quantity of ammunition is less than one hundred rounds, it is punishable on summary conviction.
+    (b) If the quantity of ammunition is one hundred rounds or more, it is an indictable offence and liable to imprisonment for a term not exceeding two years.
+
+---
+
+**Section 49: Unauthorized Possession of a Firearm by a Disqualified Person**
+
+(1) Pursuant to **Article 9, Clause 4 of the Core Immutable Principles**, it is an indictable offence for a person to possess a firearm if they are a member of a disqualified class.
+
+(2) A person who commits an offence under this section is liable to imprisonment for a term not exceeding ten years if the person is:
+    (a) a convicted felon, having been convicted of a violent offence;
+    (b) a person who has been adjudicated by a court as a danger to themselves or others by reason of mental infirmity, for the duration of such adjudication;
+    (c) a non-citizen of the nation; or
+    (d) a person currently under a pre-trial release order for a violent offence.
+
+(3) For the purposes of an adjudication under subsection (2)(b), the following conditions must be met:
+    (a) The person must be given notice and the opportunity to be heard in a formal court proceeding, with the right to legal counsel.
+    (b) The finding of danger must be supported by clear and convincing evidence, including the testimony of at least two qualified medical experts who have personally examined the person.
+    (c) Any such adjudication and the resulting firearms prohibition shall be for a fixed period not to exceed five years.
+
+(4) A person subject to a prohibition under subsection (2)(b) has the right to petition the court once every two years for a restoration of their rights. The prohibition shall be lifted if the person can demonstrate to the court, on a balance of probabilities, that they are no longer a danger to themselves or others.
+
+(5) A person subject to a prohibition under subsection (2)(a) may petition the provincial Court of Appeal for a restoration of their right to possess firearms, provided that:
+    (a) at least twenty years have passed since the full completion of their sentence, including any period of parole or probation; and
+    (b) the person has not been convicted of any other indictable offence during that time.
+(6) The Court of Appeal may grant the restoration only if it is satisfied by clear and convincing evidence that the person is of good character and would not pose a risk to public safety. The burden of proof rests entirely on the petitioner.
+
+---
+
+**Section 50: Possession of Weapon for Unlawful Purpose**
+
+(1) Every one commits an offence who possesses a weapon with the intent to use it for the commission of an indictable offence.
+
+(2) In determining whether an accused possessed a weapon for an unlawful purpose under this section, the court shall consider all the circumstances, including but not limited to, evidence that the accused:
+    (a) was attempting to conceal the weapon on their person;
+    (b) was in possession of the weapon in combination with tools or instruments commonly used for criminal activity, such as for a burglary;
+    (c) was possessing the weapon in violation of a court order related to the protection of another person; or
+    (d) altered the weapon's appearance or serial number for the purpose of avoiding identification.
+
+(3) Every one who commits an offence under this section is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years.
+
+---
+
+**Section 51: Use of Firearm in Commission of an Offence**
+
+(1) Every one who uses a firearm while committing an indictable offence is guilty of an indictable offence and liable to a mandatory minimum punishment of imprisonment for a term of five years.
+
+(2) A sentence imposed on a person for an offence under this section shall be served consecutively to any other punishment imposed on the person for an offence arising out of the same event or series of events.
 
 ---
 ---
