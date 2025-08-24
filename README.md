@@ -84,6 +84,8 @@ While the Charters and Model Legislation provide the "what" of the Dominion Cove
 
 *   **[Memorandum on the Divine Foundation of Law](docs/Memorandum%20on%20the%20Divine%20Foundation%20of%20Law.md)**: A defense of the project's most fundamental choice: founding the state on the authority of Divine Law (Theonomy) rather than secular humanism. It argues that a Covenanted State is the only viable path to lasting liberty.
 
+*   **[Memorandum on the Preservation of Life](docs/Memorandum%20on%20the%20Preservation%20of%20Life.md)**: Explains the theological foundation for the Covenant's master principle—the sanctity of life—and provides the definitive rationale for both prohibiting abortion and prudentially abolishing capital punishment.
+
 *   **[Memorandum on the Doctrine of the Sword](docs/Memorandum%20on%20the%20Doctrine%20of%20the%20Sword%20and%20the%20Office%20of%20the%20Citizen-Soldier.md)**: Explains the reasoning behind the absolute prohibition of a professional standing army and the constitutional necessity of a well-regulated citizen militia as the ultimate guarantor of domestic liberty.
 
 *   **[Memorandum on the Commonwealth of Nations](docs/Memorandum%20on%20the%20Commonwealth%20of%20Nations%20and%20the%20Principle%20of%20Sovereign%20Partnership.md)**: Clarifies the Covenant's foreign policy stance, rejecting membership in the modern Commonwealth in favor of a new, stronger "Sovereign Compact" among core Westminster nations.
