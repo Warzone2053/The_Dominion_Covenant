@@ -232,6 +232,12 @@ Culpable homicide is murder where the person who causes the death of a human bei
 
 (5) **Clarification:** The sentencing provisions in this section are subject to the specific mandatory sentences prescribed in **Section 4 of this Act (Heinous Crimes Against a Child)**.
 
+#### **Section 10A: Enhanced Sentence for Heinous Murder**
+
+(1) Notwithstanding the general parole eligibility provisions in Section 10, a court may, upon a conviction for first-degree murder that does not constitute a Sovereign Offense, impose a sentence of life imprisonment with an enhanced period of parole ineligibility of **forty (40) years**.
+
+(2) Such an enhanced sentence may only be imposed if the court finds, beyond a reasonable doubt, that the murder was characterized by exceptional brutality, cruelty, or depravity.
+
 ---
 
 **Section 11: Assault**
