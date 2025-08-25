@@ -82,7 +82,7 @@ While the Charters and Model Legislation provide the "what" of the Dominion Cove
 
 *   **[Memorandum on the Philosophy and Architecture of the Dominion Covenant](docs/Memorandum%20on%20the%20Philosophy%20and%20Architecture%20of%20the%20Dominion%20Covenant.md)**: The master key to the project. It explains the "Year Zero" premise and the Trinitarian architecture that unites the three core charters into a single, coherent whole.
 
-*   **[Memorandum on the Hermeneutics of Law: A New Covenant Theonomy](docs/Memorandum%20on%20the%20Hermeneutics%20of%20Law%20A%20New%20Covenant%20Theonomy.md)**: The definitive hermeneutical guide to the project. It explains the Covenant's unique Christ-centered method for applying the *whole* of Scripture to civil law, defining its philosophy as a "New Covenant Theonomy."
+*   **[Memorandum on the Hermeneutics of Law: A New Covenant Theonomy](docs/Memorandum%20on%20the%20Hermeneutics%20of%20Law%3A%20A%20New%20Covenant%20Theonomy.md)**: The definitive hermeneutical guide to the project. It explains the Covenant's unique Christ-centered method for applying the *whole* of Scripture to civil law, defining its philosophy as a "New Covenant Theonomy."
 
 *   **[Memorandum on the Divine Foundation of Law](docs/Memorandum%20on%20the%20Divine%20Foundation%20of%20Law.md)**: A defense of the project's most fundamental choice: founding the state on the authority of Divine Law (Theonomy) rather than secular humanism. It argues that a Covenanted State is the only viable path to lasting liberty.
 
