@@ -92,7 +92,16 @@ NOW THEREFORE, this Legislature enacts the following law to ensure the security 
     (b) Provided with sufficient food, water, and necessary medical care.
     (c) Protected from cruelty, abuse, and exploitation.
 
-**(3) Protection of Children.** An unaccompanied child who is an illegal alien shall be provided with safe shelter. The state's primary and urgent duty shall be to return the child to the care of their parents or legal guardians in their country of origin as swiftly and safely as possible. The child shall not be resettled within the nation.
+**(3) Protection of Children and the Duty of Repatriation.** An unaccompanied child who is an illegal alien shall be provided with safe shelter and granted the temporary legal status of a **Protected Ward of the Nation**.
+    (a) A Protected Ward shall be afforded all rights to safety, care, and education under the law but is not granted permanent residency or a path to citizenship by this status alone.
+    (b) The state's primary and urgent duty shall be to return the child to the care of their parents or legal guardians in their country of origin as swiftly and safely as possible.
+    (c) The child shall not be resettled within the nation, except under the specific provisions of Section (4) of this Article.
+
+**(4) Declaration of Repatriation Failure.**
+    (a) If, after a continuous period of **eighteen (18) months** from the time the state assumes temporary custody, all documented diplomatic efforts to repatriate a Protected Ward have been exhausted and have failed, the Minister of Foreign Affairs shall be required to formally petition the **Supreme Court of Canada**.
+    (b) The Supreme Court shall review the evidence of the diplomatic engagement. If the Court is satisfied that all reasonable efforts to repatriate have failed, it shall issue a **"Declaration of Repatriation Failure."**
+    (c) Upon the issuance of this Declaration, the prohibition on resettlement in Section (3)(c) of this Article shall be rendered null and void **for that specific child**. The child's status as a Protected Ward shall be terminated, and they shall be deemed legally available for permanent adoption within Canada.
+    (d) Their case shall be transferred **exclusively to the jurisdiction of the family courts** to be adjudicated in accordance with the provisions of **The Marriage and Family Covenant Act**.
 
 ---
 
