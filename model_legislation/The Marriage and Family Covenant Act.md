@@ -180,6 +180,46 @@ The list of prohibited relationships in this section is exhaustive. The state sh
     (b) The temporary or permanent removal of a child from their parents' custody is the most extreme act of state power and shall not be ordered unless the court finds, beyond a reasonable doubt, that it is the only possible means of protecting the child from imminent death or grievous bodily harm.
     (c) In all proceedings, the primary goal of the court shall be the preservation and reunification of the family.
 
+**(5) The Parental Right of Moral Dissociation.**
+
+    (a) **Principle and Purpose.** While the state is prohibited from discriminating in its employment practices, it is also prohibited from compelling a child to receive instruction in a manner that violates the primary moral authority of their parents. This section establishes a parent's right to shield their child from specific classroom instruction that the parent, in good faith, believes to be a direct and substantial contradiction to the moral and religious instruction provided in the home.
+
+    (b) **Initiation of the Right.** A parent may invoke this right by submitting a formal, written **"Declaration of Moral Dissociation"** to the school administration. This declaration must:
+        (i) Name the specific teacher and the subject of instruction.
+        (ii) Articulate the parent's sincere and specific objection, based on their religious or moral convictions.
+        (iii) Be a request for alternative instruction for the child, not a demand for the removal or discipline of the teacher.
+
+    (c) **The School's Mandatory Duty to Accommodate.** Upon receipt of a valid Declaration, the school administration has a mandatory and non-discretionary duty to provide the child with an alternative means of receiving the academic content for that specific course. The school's duty to accommodate shall be fulfilled by one of the following methods, in order of preference:
+
+        (i) **Transfer:** If another teacher of the same subject is available at the school, the child shall be immediately transferred to that teacher's class for that subject.
+        (ii) **Alternative Instruction:** If a transfer is not possible (e.g., in a school with only one teacher for that subject), the school shall provide the parent with the complete, official curriculum, including all necessary textbooks and materials for that course. The school shall then administer all standardized tests and examinations to the child to ensure academic proficiency is met. In this arrangement, the school provides the academic content, and the parent provides the direct instruction in a manner consistent with their moral framework.
+
+    (d) **Limitations and Protections.**
+        (i) This right applies to the child and the parent; it confers no right to disrupt the classroom for other students or to harass the teacher in question.
+        (ii) The teacher's employment status, compensation, and professional standing shall not be negatively affected in any way by a parent's decision to exercise this right.
+        (iii) A parent may not use this right frivolously. A pattern of declarations deemed by the school administration to be a bad-faith attempt to withdraw a child from all instruction shall be grounds for a review under the "Profound Educational Neglect" standard of this Act.
+
+**(6) The Mandatory Protection Standard for Persons with Authority over Minors.**
+
+    (a) **Principle and Scope.** The state has a supreme and non-delegable duty to protect minors from demonstrable threats of harm. This standard shall apply to **every institution, whether public or private**, that exercises authority or provides care for persons under the age of eighteen.
+
+    (b) **The Mandate.** No institution shall grant any adult unsupervised authority over a minor until that person has undergone and cleared a standardized background check, herein named the **Minors & Vulnerable Persons Check**, and has been issued a formal **Clearance Certificate**.
+
+    (c) **The "Minors & Vulnerable Persons Check".** The office of the Provincial Director of Public Prosecutions (DPP) shall administer this check, which shall consist of a comprehensive review of all criminal records to identify any charge or conviction that demonstrates a pattern of behavior posing a potential risk to the well-being of a minor. This includes, but is not limited to, offenses involving violence, sexual misconduct, cruelty, and profound dishonesty.
+
+    (d) **Disqualifying Offenses.**
+        (i) **Absolute Bar for Heinous Acts:** A Clearance Certificate shall be permanently and irrevocably denied to any person who has a final conviction for an act that constitutes a **Sovereign Offense** as defined in the **Core Immutable Principles**. This absolute bar applies regardless of the jurisdiction or the date of the conviction, and includes any "Equivalent Offense" committed prior to the enactment of this Act. It shall also apply to any person who, having been convicted of a Sovereign Offense, is subsequently released from custody by an act of Executive Clemency.
+        (ii) **Discretionary Bar:** For all other relevant offenses, the DPP's office shall have the authority to deny a certificate based on the nature, severity, and pattern of criminal behavior. A denial of a certificate under this clause may be appealed to a court of law.
+
+    (e) **Renewal and Continuing Duty.**
+        (i) A Clearance Certificate shall be valid for no more than **three (3) years**.
+        (ii) Any person holding a certificate has a binding **duty to self-report** any new, potentially disqualifying charge within seventy-two (72) hours.
+        (iii) Any institution has a **duty to inquire** and report credible information about a certificate holder to the DPP's office.
+
+    (f) **Enforcement and Liability.**
+        (i) Knowingly falsifying information to obtain a certificate or violating the duty to self-report is a serious criminal offense.
+        (ii) An institution that fails in its duty to ensure all relevant personnel have a valid Clearance Certificate shall be subject to severe financial penalties and may be held **civilly liable for gross negligence** in the event a child is harmed.
+
 ---
 
 ### ARTICLE VIII: ADOPTION AND GUARDIANSHIP
