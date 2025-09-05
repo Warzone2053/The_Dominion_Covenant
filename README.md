@@ -1,5 +1,13 @@
 # The Dominion Covenant
 
+## Dedication
+
+This work is dedicated to the glory of God. The human author acts as a humble steward, holding the legal copyright in trust for the sole purpose of preserving the integrity of the work and ensuring it remains true to its foundational principles. All credit for any wisdom, coherence, or truth found herein belongs to Him alone.
+
+*Soli Deo Gloria*
+
+---
+
 ## Introduction
 
 The Dominion Covenant is a comprehensive, first-principles thought experiment in constitutional design. It represents a complete architectural blueprint for a potential future Canada, rebuilt from the ground up on a foundation of enduring moral principles, limited government, and robust individual liberty.
