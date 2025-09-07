@@ -47,9 +47,9 @@ The mandate of the Commission shall be to:
 **Section 4: Voter Eligibility**
 
 A person is entitled to vote in an electoral district if they are:
-(a) a citizen of Canada;
-(b) eighteen years of age or older on the day of the vote; and
-(c) a resident of that electoral district.
+(a) a Citizen of Canada;
+(b) a resident of that electoral district; and
+(c) an **Elector**, having been vested with the Right of Suffrage in accordance with the provisions of **Article 15 of the Core Immutable Principles**.
 
 **Section 5: The National Register of Voters**
 
