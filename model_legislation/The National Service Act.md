@@ -78,4 +78,4 @@ NOW THEREFORE, this Legislature enacts the following law to govern the universal
 
 **(2) The National Service Registry.** A national body shall be established to oversee the administration of this Act, maintain a registry of all citizens, and certify the honorable completion of service.
 
-**(3) Vesting of Political Rights.** Upon certification of honorable completion of any of the prescribed paths of service, a citizen's political rights are formally and legally vested. They shall be transferred to the roll of active voters and become eligible to hold public office.
+**(3) Vesting of Political Rights.** Upon certification of honorable completion of any of the prescribed paths of service, a citizen's political rights are formally and legally vested. For a male citizen, this act qualifies him as an **Elector** with the Right of Suffrage, in accordance with **Article 15 of the Core Immutable Principles**. For a female citizen who completes Mandatory Charitable Service, this act vests her full political rights, but the Right of Suffrage remains contingent upon the covenant of Marriage as defined in the Charter.

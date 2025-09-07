@@ -46,9 +46,9 @@ The definitions listed below derive their legal force *exclusively* from their c
 *   **Definition Includes:** The Dominion Electoral Commission, an independent agency responsible for administering federal elections.
 
 #### **Conscientious Objector**
-*   **Source:** `The National Militia Act.md`
-*   **Location:** Article VI, Section 1
-*   **Definition Includes:** A legal status granted by a judicial panel to a citizen who demonstrates, by a clear and convincing standard, a sincere and deeply held religious conviction that prohibits them from participating in any military activity.
+*   **Source:** `The National Service Act.md`
+*   **Location:** Article II, Section 2(a)
+*   **Definition Includes:** A legal status granted by a judicial panel to a male citizen who demonstrates, by a clear and convincing standard, a sincere and deeply held religious conviction that prohibits him from participating in any military activity.
 
 #### **Constructive Desertion**
 *   **Source:** `01. THE CORE IMMUTABLE PRINCIPLES OF THE CONSTITUTION OF CANADA.md`
@@ -87,6 +87,11 @@ The definitions listed below derive their legal force *exclusively* from their c
 ---
 
 ### E
+
+#### **Elector**
+*   **Source:** `01. THE CORE IMMUTABLE PRINCIPLES OF THE CONSTITUTION OF CANADA.md`
+*   **Location:** Article 15, Section 2
+*   **Definition Includes:** A Citizen who has been vested with the Right of Suffrage, either through the completion of National Service (for men) or entry into the covenant of Marriage (for women).
 
 #### **Electoral Impasse**
 *   **Source:** `The Dominion Elections Act.md`
@@ -213,9 +218,9 @@ The definitions listed below derive their legal force *exclusively* from their c
 *   **Definition Includes:** The total value of all final goods and services sold within the economy, calculated annually by the Chief Statistician, which serves as the economic activity gauge for the federal revenue cap.
 
 #### **National Service Corps**
-*   **Source:** `The National Militia Act.md`
-*   **Location:** Article VI, Section 2
-*   **Definition Includes:** A civilian corps in which citizens who are formally recognized as **Conscientious Objectors** are required to complete a term of service, undertaking projects of national significance.
+*   **Source:** `The National Service Act.md`
+*   **Location:** Article V
+*   **Definition Includes:** A civilian corps composed of male Conscientious Objectors, tasked with projects of national significance requiring arduous physical labor.
 
 #### **National Stewardship Dividend**
 *   **Source:** `The National Stewardship Act.md`
@@ -283,6 +288,11 @@ The definitions listed below derive their legal force *exclusively* from their c
 *   **Location:** Article 10, Section 4
 *   **Definition Includes:** A public, advisory report produced by the Office of the Public Tribune for all judicial nominees, providing an impartial assessment of their qualifications to the confirming authority.
 
+#### **Right of Suffrage**
+*   **Source:** `01. THE CORE IMMUTABLE PRINCIPLES OF THE CONSTITUTION OF CANADA.md`
+*   **Location:** Article 15
+*   **Definition Includes:** The right to vote, which is not universal, but is vested in Citizens upon the fulfillment of a recognized covenantal vocation (National Service for men, Marriage for women).
+
 ---
 
 ### S
@@ -317,7 +327,7 @@ The definitions listed below derive their legal force *exclusively* from their c
 
 #### **Waste**
 *   **Source:** `01. THE CORE IMMUTABLE PRINCIPLES OF THE CONSTITUTION OF CANADA.md`
-*   **Location:** Article 10, Section 1(b)
+*   `Location:` Article 10, Section 1(b)
 *   **Definition Includes:** Expenditure with no discernible rational connection to a stated public benefit.
 
 #### **Willful Desertion**

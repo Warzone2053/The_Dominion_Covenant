@@ -58,7 +58,7 @@ NOW THEREFORE, this Legislature enacts the following law to govern the acquisiti
 ### ARTICLE III: THE RIGHTS AND DUTIES OF A CITIZEN
 
 **(1) The Rights of a Citizen.** While all persons within the nation are protected by the law, the following core rights are reserved exclusively for citizens:
-    (a) The right to vote in any election or referendum.
+    (a) The right to **qualify for the Right of Suffrage**, in accordance with the principles and vocations established in the **Core Immutable Principles**.
     (b) The right to hold any elected or appointed public office.
     (c) The right and the duty to fulfill National Service in the **Regulated Militia** or the **National Service Corps**.
     (d) The right to keep and bear arms, as defined in **Article 9 of the Core Immutable Principles**.
