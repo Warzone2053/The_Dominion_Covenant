@@ -60,7 +60,7 @@ AND WHEREAS the defense of the nation is a shared and binding duty of all citize
 
 ---
 
-### ARTICLE II: PERSONNEL AND TRAINING
+### ARTICLE II: OFFICER TRAINING AND PROFESSIONAL DEVELOPMENT
 
 ---
 
@@ -86,36 +86,46 @@ AND WHEREAS the defense of the nation is a shared and binding duty of all citize
 
 ---
 
-### ARTICLE III: NATIONAL SERVICE OBLIGATION AND TRAINING
+### ARTICLE III: RECRUITMENT AND INITIAL ENTRY TRAINING
 
 ---
 
-#### **Section 1: The Universal Service Obligation**
+#### **Section 1: The Path of the Guardian**
 
-1.  In accordance with the **Core Immutable Principles**, every citizen shall be subject to a period of mandatory national service upon reaching the age of majority, as shall be defined by a **National Service Act**.
-2.  The default and primary path for fulfilling this obligation is service in a Provincial Militia.
-3.  The sole alternative to military service is mandatory service in the **National Service Corps**, available only to those formally recognized as **Conscientious Objectors** under **Article VI** of this Act.
+1.  Service in the Regulated Militia is the primary path by which male citizens fulfill their National Service obligation, as established in the **National Service Act**.
 
-#### **Section 2: The National Standard for Service**
+2.  The purpose of the training and standards established in this Article is to transform a civilian recruit into a Citizen Guardian—a disciplined, virtuous, and constitutionally literate defender of the nation's Charters.
 
-1.  To ensure a uniformly high quality of personnel across all Provincial Militias, the **Federal Command for Materiel and Doctrine** is hereby mandated to establish and publish the **National Standard for Service**. This standard shall be applied to all citizens entering service without exception.
+#### **Section 2: The National Standard for Military Service**
+
+1.  To ensure a uniformly high quality of personnel across all Provincial Militias, the **Federal Command for Materiel and Doctrine** is hereby mandated to establish and publish the **National Standard for Military Service**. This standard shall be applied to all male citizens seeking to enter the Regulated Militia.
+
 2.  The Standard shall consist of three components:
     (a) **Medical Fitness:** A candidate must pass a comprehensive medical examination designed to identify any physical or psychological condition that would predictably prevent them from performing their duties in a demanding operational environment or would pose an undue risk to themselves or their unit. The list of disqualifying conditions shall be made public and applied uniformly.
     (b) **Physical Fitness:** A candidate must pass the standardized **Enlistment Physical Fitness Test (EPFT)**. The EPFT shall be designed to measure the raw physical attributes necessary to succeed in military training. The test shall be identical for all applicants, regardless of sex or intended military occupation, and the minimum passing score shall be universal.
     (c) **Moral Character:** A candidate must meet the criteria for good standing as defined in **Article II, Section 3(2)(b)** of this Act, including the absence of a disqualifying criminal record.
 
-#### **Section 3: Initial Entry Training (IET)**
+#### **Section 3: Initial Entry Training (IET) and the Forging of the Guardian**
 
 1.  Each province shall be responsible for conducting Initial Entry Training for its recruits, in accordance with the national curriculum developed and maintained by the **Federal Command for Materiel and Doctrine**.
-2.  IET shall consist of two distinct phases:
+
+2.  IET shall consist of two distinct but integrated phases:
     (a) **Phase I: Basic Combat Training (BCT).** This universal phase shall be the process by which a civilian recruit is transformed into a disciplined, baseline soldier. The curriculum shall include, at minimum, proficiency in small arms, land navigation, field craft, first aid, the **Uniform Code of Military Justice (UCMJ)**, and the physical and mental rigors of military life.
     (b) **Phase II: Advanced Individual Training (AIT).** Following successful completion of BCT, each recruit shall attend training for their specific military occupational specialty, ensuring they possess the technical skills required for their role within the militia.
-3.  Successful graduation from both phases of IET is a prerequisite for being formally sworn into a Provincial Militia as a member in good standing.
+
+3.  **The Guardian's Curriculum:** To fulfill the purpose of military service as a constitutional rite of passage, the curriculum for **Basic Combat Training** shall include a mandatory and intensive course of instruction in **"Applied Covenantal Studies."** This is not an academic course, but a practical one, designed to impress upon the recruit the profound responsibilities of a guardian. The curriculum shall include, at minimum:
+    (a) **The Oath of Guardianship:** A detailed, clause-by-clause study of the Militia Oath of Service, with a particular focus on the duty to refuse an unconstitutional order that violates a **Core Immutable Principle**.
+    (b) **The Doctrine of the Sword:** Instruction on the biblical and constitutional basis for the state's authority to use force, and the solemn limits on that authority.
+    (c) **Historical Case Studies:** The study of historical examples of both military virtue and military failure, including instances of armies defending liberty and those of armies enabling tyranny.
+
+4.  Successful graduation from both phases of IET, including the Guardian's Curriculum, is a prerequisite for being formally sworn into a Provincial Militia as a member in good standing.
 
 #### **Section 4: The Graduated Physical Readiness Program**
 
 1.  To ensure all members achieve the high level of physical readiness required for the common defense, IET shall employ a **Graduated Physical Readiness Program**.
+
 2.  This program shall ensure that physical standards become progressively more demanding throughout the training pipeline. The minimum passing score on the **EPFT** is required for entry into training. The final graduation requirement for IET shall be a passing score on the **Militia Physical Fitness Test (MPFT)**.
+
 3.  The **MPFT** represents the official, operational standard of fitness that every member of the Provincial Militias, regardless of rank or role, must pass at least annually to remain a member in "good standing." This aligns with the doctrine of universal combat readiness, ensuring every member is a soldier first.
 
 ---
@@ -152,25 +162,7 @@ AND WHEREAS the defense of the nation is a shared and binding duty of all citize
 
 ---
 
-### ARTICLE VI: NATIONAL SERVICE
-
----
-
-#### **Section 1: Conscientious Objectors**
-
-1.  A citizen may petition a provincial judicial panel to be legally recognized as a **Conscientious Objector**.
-2.  To be granted this status, the petitioner must demonstrate, by a clear and convincing standard of evidence, a sincere and deeply held religious conviction that prohibits them from participating in any military activity, including non-combatant roles.
-
-#### **Section 2: The National Service Corps**
-
-1.  There is hereby established a civilian **National Service Corps**.
-2.  Any citizen who is formally recognized as a **Conscientious Objector** shall be required to complete a term of service in the **National Service Corps**.
-3.  The mission of the Corps shall be to undertake projects of national significance, including but not limited to disaster relief, infrastructure development, and wilderness conservation.
-4.  This ensures that every citizen contributes to the well-being and security of the nation in a manner consistent with their conscience.
-
----
-
-### ARTICLE VII: COMPENSATION, BENEFITS, AND CIVILIAN STATUS
+### ARTICLE VI: COMPENSATION, BENEFITS, AND CIVILIAN STATUS
 
 ---
 
@@ -214,7 +206,7 @@ AND WHEREAS the defense of the nation is a shared and binding duty of all citize
 
 ---
 
-### ARTICLE VIII: ARMS AND EQUIPMENT
+### ARTICLE VII: ARMS AND EQUIPMENT
 
 ---
 

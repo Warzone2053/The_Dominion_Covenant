@@ -50,7 +50,9 @@ For greater clarity, this statute is a **Framework Act** as defined in **Article
 
 ### PART III: THE NATIONAL STEWARDSHIP DIVIDEND
 
-1.  **Principle of Citizen Ownership.** Recognizing that the nation's natural resources are the common inheritance of the people, the net income derived from their use shall be returned directly to the citizens as a dividend of their ownership.
+1.  **Principle of Citizen Ownership and the Mandate for Civic Virtue.**
+    (a) **Preamble of Purpose:** Recognizing that the nation's natural resources and sovereign assets are the common inheritance of the covenantal people, the net income derived from their stewardship shall be returned directly to the citizens as a dividend of their ownership.
+    (b) **The Mandate for a Shareholder Mindset:** This Dividend is not a welfare payment, but is a constitutional mechanism designed to foster the virtues of **Personal Responsibility and Civic Engagement**. By granting every citizen a direct and tangible stake in the fiscal health and efficient governance of the nation, the Dividend transforms the citizen from a passive taxpayer into an active **Shareholder in the national enterprise**. It is the economic expression of the citizen's duty to be an informed and vigilant steward of the public trust.
 
 2.  **Mechanism of the Dividend.**
     (a) There is hereby established the **National Stewardship Dividend**, to be paid annually in equal shares to every adult citizen of the nation.
