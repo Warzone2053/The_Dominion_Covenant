@@ -47,6 +47,7 @@ The architecture of the Dominion Covenant is built upon several foundational pil
 
 The Dominion Covenant introduces several unique constitutional structures designed to secure liberty and ensure accountability:
 
+*   **Covenantal Suffrage:** A unique model of earned suffrage where the right to vote is not universal, but is a duty of stewardship vested in citizens who have assumed a recognized covenantal vocation, either through the completion of National Service (for men) or entry into the covenant of Marriage (for women).
 *   **The Public Tribune:** A powerful, independent fourth branch of government, staffed by a citizen jury, with the absolute authority to investigate and censure any part of the state, serving as the people's permanent watchdog.
 *   **The Regulated Militia:** The prohibition of a professional standing army in favor of a decentralized, well-regulated provincial militia system based on universal service, placing the power of the sword irrevocably in the hands of the people.
 *   **Fiscal State Mechanism:** A constitutionally mandated system that automatically adjusts the government's fiscal rules based on objective economic indicators, enforcing balanced budgets in normal times and allowing for limited, controlled deficits during crises.
